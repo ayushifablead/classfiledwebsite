@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="css/owl.carousel.min.css" type="text/css">
     <link rel="stylesheet" href="css/slicknav.min.css" type="text/css">
     <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/style1.css" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
@@ -65,8 +66,8 @@
         <nav class="humberger__menu__nav mobile-menu">
             <ul>
                 <li class="active"><a href="./index.php">Home</a></li>
-                <li class=""><a href="./about-us.php">About Us</a></li>
-                <li><a href="./shop-grid.php">Shop</a></li>
+                <!-- <li class=""><a href="./about-us.php">About Us</a></li> -->
+                <li><a href="./shop-grid.php">Product</a></li>
                 <!-- <li><a href="#">Pages</a>
                     <ul class="header__menu__dropdown">
                         <li><a href="./shop-details.php">Shop Details</a></li>
@@ -144,24 +145,23 @@
                     </div>
                 </div>
                 <div class="col-lg-2 mt-3">
-                    <div class="hero__categories">
+                <div class="hero__categories">
                         <div class="hero__categories__all">
-                            <i class="fa fa-bars"></i>
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+
                             <span>Location</span>
                         </div>
                         <ul>
-                            <li><a href="fresh-meat-category.php">Fresh Meat</a></li>
-                            <li><a href="vegetables-category.php">Vegetables</a></li>
-                            <li><a href="fruit-nut-gifts-category.php">Fruit & Nut Gifts</a></li>
-                            <li><a href="fresh-berries-category.php">Fresh Berries</a></li>
-                            <li><a href="ocean-foods-category.php">Ocean Foods</a></li>
-                            <li><a href="butter-eggs-category.php">Butter & Eggs</a></li>
-                            <li><a href="fastfood-category.php">Fastfood</a></li>
-                            <li><a href="fresh-onion-category.php">Fresh Onion</a></li>
-                            <li><a href="papayaya-crisps-category.php">Papayaya & Crisps</a></li>
-                            <li><a href="oatmeal-category.php">Oatmeal</a></li>
-                            <li><a href="fresh-banana-category.php">Fresh Bananas</a></li>
+                            <li><input type="text" class="form-control" placeholder="Search"></li>
+                            <li><a href="#">India</a></li>
+                            <li><a href="#">Ahmedabad</a></li>
+                            <li><a href="#">Bangalore</a></li>
+                            <li><a href="#">Chandigarh</a></li>
+                            <li><a href="#">Chennai</a></li>
+                          
                         </ul>
+
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 mt-3">
@@ -173,7 +173,7 @@
 
                                     <!-- <span class="arrow_carrot-down"></span> -->
                                 </div>
-                                <input type="text" placeholder="What do yo u need?">
+                                <input type="text" placeholder="Search">
                                 <button type="submit" class="site-btn"><i class="fa fa-search" aria-hidden="true"></i>                                </button>
                             </form>
                         </div>
@@ -184,8 +184,8 @@
                     <nav class="header__menu float-lg-right">
                         <ul>
                             <li class=""><a href="./index.php">Home</a></li>
-                            <li class=""><a href="./about-us.php">About Us</a></li>
-                            <li><a href="./shop-grid.php">Shop</a></li>
+                            <!-- <li class=""><a href="./about-us.php">About Us</a></li> -->
+                            <li><a href="./shop-grid.php">Product</a></li>
                             <!-- <li><a href="#">Pages</a>
                                 <ul class="header__menu__dropdown">
                                     <li><a href="./shop-details.php">Shop Details</a></li>
@@ -195,8 +195,8 @@
                                 </ul>
                             </li> -->
                             <li><a href="./category.php">Category</a></li>
-                            <!-- <li><a href="./blog.php">Blog</a></li>
-                            <li><a href="./faqs.php">Faqs</a></li>
+                          <li><a href="login.php">Login</a></li>
+                             <!--  <li><a href="./faqs.php">Faqs</a></li>
                             <li><a href="./contact.php">Contact</a></li> -->
                         </ul>
                     </nav>
