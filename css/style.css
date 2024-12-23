@@ -144,13 +144,13 @@ ol {
 
 .site-btn {
 	font-size: 14px;
-	color: #ffffff;
-	font-weight: 800;
-	text-transform: uppercase;
-	display: inline-block;
-	padding: 13px 30px 12px;
-	background: #7fad39;
-	border: none;
+    color: gray;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: inline-block;
+
+    background: transparent;
+    border: none;
 }
 
 /* Preloder */
@@ -632,10 +632,10 @@ ol {
     margin-left: auto;
 }
 .hero__search__form {
-	width: 610px;
+	width: 428px;
 	height: 50px;
 	border: 1px solid #ebebeb;
-	position: relative;
+	position: relative;	
 	float: left;
 }
 
@@ -683,7 +683,7 @@ ol {
 .hero__search__form form button {
 	position: absolute;
 	right: 0;
-	top: -1px;
+	/* top: -1px; */
 	height: 50px;
 }
 
