@@ -114,7 +114,7 @@
     $(".product__discount__slider").owlCarousel({
         loop: true,
         margin: 0,
-        items: 3,
+        items: 4,
         dots: true,
         smartSpeed: 1200,
         autoHeight: false,
@@ -130,11 +130,11 @@
             },
 
             768: {
-                items: 2,
+                items: 3,
             },
 
             992: {
-                items: 3,
+                items: 4,
             }
         }
     });

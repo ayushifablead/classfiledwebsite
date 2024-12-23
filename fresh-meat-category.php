@@ -1,16 +1,16 @@
 <?php include 'header.php'; ?>
 
     <!-- Breadcrumb Section Begin -->
-    <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+    <section class="breadcrumb-section set-bg" data-setbg="img/banner/shop-banner.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="breadcrumb__text">
-                        <h2>Fresh Meat</h2>
+                        <h2>Table Combo</h2>
                         <div class="breadcrumb__option">
                             <a href="./index.php">Home</a>
                            <a href="./shop-grid.php">Shop</a>
-                            <span>Fresh Meat</span>
+                            <span>Table Combo</span>
                         </div>
                     </div>
                 </div>
@@ -23,7 +23,7 @@
     <section class="product spad">
         <div class="container">
             <div class="row">
-                <div class="col-lg-3 col-md-5">
+                <!-- <div class="col-lg-3 col-md-5">
                     <div class="sidebar">
                         <div class="sidebar__item">
                             <h4>Department</h4>
@@ -189,8 +189,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-lg-9 col-md-7">
+                </div> -->
+                <div class="col-lg-12 col-md-6">
                     <div class="product__discount">
                         <div class="section-title product__discount__title">
                             <h2>Sale Off</h2>
@@ -201,11 +201,11 @@
                                     <div class="product__discount__item">
                                         <div class="product__discount__item__pic set-bg"
                                             data-setbg="img/product/product-1.jpg" style="background-image: url('img/product/product-1.jpg');">
-                                            <div class="product__discount__percent">-20%</div>
+                                          
                                             <ul class="product__item__pic__hover">
-                                                <li><a href="#"><i class="fa fa-heart"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-retweet"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                                               
+                                                <li><a href="#"><i class="fa fa-eye"></i></a></li>
+                                                
                                             </ul>
                                         </div>
                                         <div class="product__discount__item__text">
@@ -219,12 +219,12 @@
                                     <div class="product__discount__item">
                                         <div class="product__discount__item__pic set-bg"
                                             data-setbg="img/product/product-10.jpg" style="background-image: url('img/product/product-10.jpg');">
-                                            <div class="product__discount__percent">-20%</div>
+                                           
                                             
                                                 <ul class="product__item__pic__hover">
-                                                <li><a href="#"><i class="fa fa-heart"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-retweet"></i></a></li>
-                                                <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
+                                               
+                                                <li><a href="#"><i class="fa fa-eye"></i></a></li>
+                                              
                                             </ul>
                                         </div>
                                         
@@ -236,6 +236,7 @@
                                     </div>
                                 </div>
                                 
+                               
                                 
                                 
                               
