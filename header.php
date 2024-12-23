@@ -24,7 +24,9 @@
     <link rel="stylesheet" href="css/style1.css" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
+<script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
 
 </head>
 
@@ -64,8 +66,8 @@
         <nav class="humberger__menu__nav mobile-menu">
             <ul>
                 <li class="active"><a href="./index.php">Home</a></li>
-                <li class=""><a href="./about-us.php">About Us</a></li>
-                <li><a href="./shop-grid.php">Shop</a></li>
+                <!-- <li class=""><a href="./about-us.php">About Us</a></li> -->
+                <li><a href="./shop-grid.php">Product</a></li>
                 <!-- <li><a href="#">Pages</a>
                     <ul class="header__menu__dropdown">
                         <li><a href="./shop-details.php">Shop Details</a></li>
@@ -136,18 +138,54 @@
         </div> -->
         <div class="container-fluid header__top1">
             <div class="row">
-                <div class="col-lg-4">
+                <div class="col-lg-2 ">
                     <div class="header__logo">
                         <!-- <a href="./index.php"><img src="img/logo.png" alt=""></a> -->
                          <h4>Classified</h4>
                     </div>
                 </div>
-                <div class="col-lg-8 ">
+                <div class="col-lg-2 mt-3">
+                <div class="hero__categories">
+                        <div class="hero__categories__all">
+                        <i class="fa fa-map-marker" aria-hidden="true"></i>
+
+                            <span>Location</span>
+                        </div>
+                        <ul>
+                            <li><input type="text" class="form-control" placeholder="Search"></li>
+                            <li><a href="#">India</a></li>
+                            <li><a href="#">Ahmedabad</a></li>
+                            <li><a href="#">Bangalore</a></li>
+                            <li><a href="#">Chandigarh</a></li>
+                            <li><a href="#">Chennai</a></li>
+                          
+                        </ul>
+
+                        
+                    </div>
+                </div>
+                <div class="col-lg-4 mt-3">
+                    <div class="hero__search">
+                        <div class="hero__search__form">
+                            <form action="#">
+                                <div class="hero__search__categories">
+                                    Categories<i class="fa fa-angle-down" aria-hidden="true"></i>
+
+                                    <!-- <span class="arrow_carrot-down"></span> -->
+                                </div>
+                                <input type="text" placeholder="Search">
+                                <button type="submit" class="site-btn"><i class="fa fa-search" aria-hidden="true"></i>                                </button>
+                            </form>
+                        </div>
+                      
+                    </div>
+                </div>
+                <div class="col-lg-4">
                     <nav class="header__menu float-lg-right">
                         <ul>
                             <li class=""><a href="./index.php">Home</a></li>
-                            <li class=""><a href="./about-us.php">About Us</a></li>
-                            <li><a href="./shop-grid.php">Shop</a></li>
+                            <!-- <li class=""><a href="./about-us.php">About Us</a></li> -->
+                            <li><a href="./shop-grid.php">Product</a></li>
                             <!-- <li><a href="#">Pages</a>
                                 <ul class="header__menu__dropdown">
                                     <li><a href="./shop-details.php">Shop Details</a></li>
@@ -157,21 +195,17 @@
                                 </ul>
                             </li> -->
                             <li><a href="./category.php">Category</a></li>
-                            <li><a href="./blog.php">Blog</a></li>
-                            <li><a href="./faqs.php">Faqs</a></li>
-                            <li><a href="./contact.php">Contact</a></li>
+                          <li><a href="login.php">Login</a></li>
+                             <!--  <li><a href="./faqs.php">Faqs</a></li>
+                            <li><a href="./contact.php">Contact</a></li> -->
                         </ul>
                     </nav>
                 </div>
-                <div class="col-lg-3">
-                    <!-- <div class="header__cart">
-                        <ul>
-                            <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
-                            <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
-                        </ul>
-                        <div class="header__cart__price">item: <span>$150.00</span></div>
-                    </div> -->
-                </div>
+       </div>
+</div>
+              
+            
+                
             </div>
             <div class="humberger__open">
                 <i class="fa fa-bars"></i>
@@ -180,7 +214,7 @@
     </header>
     <!-- Header Section End -->
       <!-- Hero Section Begin -->
-    <section class="hero hero-normal">
+    <!-- <section class="hero hero-normal">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-3">
@@ -218,5 +252,5 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Hero Section End -->

@@ -144,13 +144,13 @@ ol {
 
 .site-btn {
 	font-size: 14px;
-	color: #ffffff;
-	font-weight: 800;
-	text-transform: uppercase;
-	display: inline-block;
-	padding: 13px 30px 12px;
-	background: #7fad39;
-	border: none;
+    color: gray;
+    font-weight: 800;
+    text-transform: uppercase;
+    display: inline-block;
+
+    background: transparent;
+    border: none;
 }
 
 /* Preloder */
@@ -607,6 +607,7 @@ ol {
     padding-top: 10px;
     padding-bottom: 12px;
     padding-right: 20px;
+	background-color: white;
 }
 
 .hero__categories ul li {
@@ -632,10 +633,10 @@ ol {
     margin-left: auto;
 }
 .hero__search__form {
-	width: 610px;
+	width: 428px;
 	height: 50px;
 	border: 1px solid #ebebeb;
-	position: relative;
+	position: relative;	
 	float: left;
 }
 
@@ -674,6 +675,60 @@ ol {
 	font-size: 16px;
 	color: #b2b2b2;
 	padding-left: 20px;
+	border-top-right-radius: 17px;
+    border-bottom-right-radius: 17px;
+}
+/* Styling for the dropdown container */
+.hero__search__categories {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 16px;
+    color: #333;
+}
+
+/* Dropdown menu styles */
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    list-style: none;
+    padding: 10px 0;
+    margin: 0;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    display: none; /* Hidden by default */
+    z-index: 1000;
+    width: 200px;
+}
+
+/* Dropdown menu items */
+.dropdown-menu li {
+    padding: 8px 16px;
+}
+
+.dropdown-menu li a {
+    text-decoration: none;
+    color: #333;
+    display: block;
+    transition: background 0.3s;
+}
+
+.dropdown-menu li:hover a {
+    background-color: #f1f1f1;
+}
+
+/* Arrow icon alignment */
+.hero__search__categories i {
+    margin-left: 5px;
+    transition: transform 0.3s;
+}
+
+/* Rotating arrow when dropdown is open */
+.hero__search__categories.open i {
+    transform: rotate(180deg);
 }
 
 .hero__search__form form input::placeholder {
@@ -683,7 +738,7 @@ ol {
 .hero__search__form form button {
 	position: absolute;
 	right: 0;
-	top: -1px;
+	/* top: -1px; */
 	height: 50px;
 }
 
@@ -1748,7 +1803,8 @@ img.cover.img-whp.w-100 {
 }
 .hero__text .primary-btn
 {
-	display: flex ;
+	display: flex
+	;
 		font-size: 14px;
 		padding: 10px 28px 10px;
 		color: #ffffff;
@@ -1757,9 +1813,10 @@ img.cover.img-whp.w-100 {
 		background: #7fad39;
 		letter-spacing: 2px;
 		text-align: center;
-		width: 25% ;
-		justify-content: center ;
-		margin: auto ;
+		width: 30%;
+		justify-content: center;
+		margin: auto;
+		border-radius: 10px;
 }
 .product__details__text ul li b {
 	font-weight: 700;

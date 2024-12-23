@@ -9,7 +9,7 @@
                             <p>Join the millions who buy and sell from each other<br />
                             everyday in local communities around the world</p>
                             <!-- <p>Free Pickup and Delivery Available</p> -->
-                            <a href="#" class="primary-btn">SHOP NOW</a>
+                            <a href="#" class="primary-btn">LEARN MORE</a>
                         </div>
                     </div>
                 </div>
