@@ -538,7 +538,7 @@
                 <div class="for_blog feat_property my-3">
                     <div class="thumb">
                         <a href="blog-details.php">
-                            <img class="img-whp cover w-100" src="img/categories/.png" alt="Redfin Ranks the Most Competitive Neighborhoods of 2025">
+                            <img class="img-whp cover w-100" src="img/categories/3.png" alt="Redfin Ranks the Most Competitive Neighborhoods of 2025">
                         </a>
                     </div>
                     <div class="details">

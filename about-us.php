@@ -1,7 +1,7 @@
 <?php include 'header.php'; ?> 
 
  <!-- Breadcrumb Section Begin -->
- <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+ <section class="breadcrumb-section set-bg" data-setbg="img/categories/slider-2.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -22,7 +22,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-4">
-                    <div class="about_image" style="background-image: url(img/banner/about-image.jpg);background-size: cover;"></div>
+                    <div class="about_image" style="background-image: url(img/categories/13.jpg);background-size: cover;"></div>
                 </div>
                 <div class="col-lg-8 pl-5">
                     <div class="about_content">
