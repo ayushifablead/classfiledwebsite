@@ -191,7 +191,7 @@
                     </div>
                 </div> -->
                 <div class="col-lg-12 col-md-6">
-                    <div class="product__discount">
+                    <div class="">
                         
                         <div class="row justify-content-center">
                             <!-- <div class="product__discount__slider owl-carousel">
