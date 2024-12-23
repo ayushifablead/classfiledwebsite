@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
 
 </head>
 
@@ -85,12 +86,12 @@
             <a href="#"><i class="fa fa-linkedin"></i></a>
             <a href="#"><i class="fa fa-pinterest-p"></i></a>
         </div>
-        <!-- <div class="humberger__menu__contact">
+        <div class="humberger__menu__contact">
             <ul>
                 <li><i class="fa fa-envelope"></i> info@gmail.com</li>
                 <li>Free Shipping for all Order of $99</li>
             </ul>
-        </div> -->
+        </div>
     </div>
     <!-- Humberger End -->
 
@@ -134,15 +135,14 @@
         </div> -->
         <div class="container-fluid header__top1">
             <div class="row">
-                <div class="col-lg-3">
-                    <div class="header__logo ">
+                <div class="col-lg-4">
+                    <div class="header__logo">
                         <!-- <a href="./index.php"><img src="img/logo.png" alt=""></a> -->
                          <h4>Classified</h4>
                     </div>
                 </div>
-               
-                <div class="col-lg-6">
-                    <nav class="header__menu">
+                <div class="col-lg-8 ">
+                    <nav class="header__menu float-lg-right">
                         <ul>
                             <li class=""><a href="./index.php">Home</a></li>
                             <li class=""><a href="./about-us.php">About Us</a></li>
@@ -163,10 +163,13 @@
                     </nav>
                 </div>
                 <div class="col-lg-3">
-                    <div class="header__cart">
-                    <input type="text" class="form-control rounded-pill" placeholder="Search">
-                    <i class="fa fa-search" aria-hidden="true"></i>
-                    </div>
+                    <!-- <div class="header__cart">
+                        <ul>
+                            <li><a href="#"><i class="fa fa-heart"></i> <span>1</span></a></li>
+                            <li><a href="#"><i class="fa fa-shopping-bag"></i> <span>3</span></a></li>
+                        </ul>
+                        <div class="header__cart__price">item: <span>$150.00</span></div>
+                    </div> -->
                 </div>
             </div>
             <div class="humberger__open">
@@ -176,27 +179,23 @@
     </header>
     <!-- Header Section End -->
       <!-- Hero Section Begin -->
-    <!-- <section class="hero hero-normal">
+    <section class="hero hero-normal">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-3">
                     <div class="hero__categories">
                         <div class="hero__categories__all">
                             <i class="fa fa-bars"></i>
-                            <span>All departments</span>
+                            <span>Location</span>
                         </div>
                         <ul>
-                            <li><a href="fresh-meat-category.php">Fresh Meat</a></li>
-                            <li><a href="vegetables-category.php">Vegetables</a></li>
-                            <li><a href="fruit-nut-gifts-category.php">Fruit & Nut Gifts</a></li>
-                            <li><a href="fresh-berries-category.php">Fresh Berries</a></li>
-                            <li><a href="ocean-foods-category.php">Ocean Foods</a></li>
-                            <li><a href="butter-eggs-category.php">Butter & Eggs</a></li>
-                            <li><a href="fastfood-category.php">Fastfood</a></li>
-                            <li><a href="fresh-onion-category.php">Fresh Onion</a></li>
-                            <li><a href="papayaya-crisps-category.php">Papayaya & Crisps</a></li>
-                            <li><a href="oatmeal-category.php">Oatmeal</a></li>
-                            <li><a href="fresh-banana-category.php">Fresh Bananas</a></li>
+                            <li><input type="text" class="form-control" placeholder="Search"></li>
+                            <li><a href="#">India</a></li>
+                            <li><a href="#">Ahmedabad</a></li>
+                            <li><a href="#">Bangalore</a></li>
+                            <li><a href="#">Chandigarh</a></li>
+                            <li><a href="#">Chennai</a></li>
+                          
                         </ul>
                     </div>
                 </div>
@@ -204,26 +203,19 @@
                     <div class="hero__search">
                         <div class="hero__search__form">
                             <form action="#">
-                                <div class="hero__search__categories">
-                                    All Categories
-                                    <span class="arrow_carrot-down"></span>
-                                </div>
-                                <input type="text" placeholder="What do yo u need?">
+                                
+                                <input type="text" placeholder="Search ..">
                                 <button type="submit" class="site-btn">SEARCH</button>
                             </form>
                         </div>
                         <div class="hero__search__phone">
-                            <div class="hero__search__phone__icon">
-                                <i class="fa fa-phone"></i>
-                            </div>
-                            <div class="hero__search__phone__text">
-                                <h5><a class="link-text" href="tel:+123456789"> +12-345-6789</a></h5>
-                                <span>support 24/7 time</span>
-                            </div>
+                        <div class="header__top__right__auth">
+                <a href="login.php"><i class="fa fa-user"></i>Login/Register    </a>
+            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section> -->
+    </section>
     <!-- Hero Section End -->

@@ -229,7 +229,7 @@ ol {
 
 .header__top1 {
 	background: #f5f5f5;
-	height: 82px;
+	height: 75px;
 }
 
 .header__top__left {
@@ -373,6 +373,7 @@ ol {
 
 .header__top__right__auth {
 	display: inline-block;
+	margin-top: 15px;
 }
 
 .header__top__right__auth a {
@@ -388,6 +389,8 @@ ol {
 .header__logo {
 	padding: 25px 0;
 }
+
+
 
 .header__logo a {
 	display: inline-block;
@@ -543,7 +546,8 @@ ol {
 }
 
 .hero.hero-normal {
-	padding-bottom: 30px;
+    padding-bottom: 10px;
+    padding-top: 10px;
 }
 
 .hero.hero-normal .hero__categories {
@@ -558,8 +562,12 @@ ol {
 	width: 100%;
 	z-index: 9;
 	background: #ffffff;
+	height: 300px;
+    overflow-y: scroll;
 }
-
+.hero__text h1 {
+    color: white;
+}
 .hero.hero-normal .hero__search {
 	margin-bottom: 0;
 }
@@ -587,7 +595,7 @@ ol {
 	position: absolute;
 	right: 18px;
 	top: 9px;
-	content: "3";
+	/* content: "3"; */
 	font-family: "Nunito", sans-serif;
 	font-size: 18px;
 	color: #ffffff;
@@ -595,9 +603,10 @@ ol {
 
 .hero__categories ul {
 	border: 1px solid #ebebeb;
-	padding-left: 40px;
-	padding-top: 10px;
-	padding-bottom: 12px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 12px;
+    padding-right: 20px;
 }
 
 .hero__categories ul li {
@@ -737,6 +746,8 @@ ol {
 
 .hero__text p {
 	margin-bottom: 35px;
+	text-align: center;
+	color: white;
 }
 
 /*---------------------
@@ -760,14 +771,14 @@ section.categories {
 }
 
 .categories__item h5 a {
-	font-size: 18px;
-	color: #1c1c1c;
-	font-weight: 700;
-	text-transform: uppercase;
-	letter-spacing: 2px;
-	padding: 12px 0 10px;
-	background: #ffffff;
-	display: block;
+	font-size: 13px;
+    color: #1c1c1c;
+    font-weight: 300;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    padding: 12px 0 10px;
+    background: #dddddd;
+    display: block;
 }
 
 .categories__slider .col-lg-3 {
@@ -1732,7 +1743,21 @@ section.categories {
 	list-style: none;
 	line-height: 36px;
 }
-
+.hero__text .primary-btn
+{
+	display: flex ;
+		font-size: 14px;
+		padding: 10px 28px 10px;
+		color: #ffffff;
+		text-transform: uppercase;
+		font-weight: 700;
+		background: #7fad39;
+		letter-spacing: 2px;
+		text-align: center;
+		width: 25% ;
+		justify-content: center ;
+		margin: auto ;
+}
 .product__details__text ul li b {
 	font-weight: 700;
 	width: 170px;
@@ -2728,8 +2753,9 @@ section.categories {
 .footer__copyright__text {
 	font-size: 14px;
 	color: #1c1c1c;
-	float: left;
+	/* float: left; */
 	line-height: 25px;
+	text-align: center;
 }
 
 .footer__copyright__payment {
@@ -3899,4 +3925,95 @@ section.categories {
 		}
 	  }
 
-	  
+.feat_property {
+		background-color: #fff;
+		border: 1px solid #ebebeb;
+		border-radius: 8px;
+		overflow: hidden;
+		position: relative;
+		transition: all .3s ease;
+
+	}  
+	.feat_property .thumb {
+		background: #1d293e;
+		border-radius: 8px;
+		margin: 0;
+		overflow: hidden;
+		position: relative;
+	}
+	.for_blog.feat_property .thumb img {
+		opacity: 1;
+	}
+	.feat_property .thumb img {
+		min-height: 220px;
+		object-fit: fill;
+		opacity: .6;
+	}
+	.feat_property .details {
+		position: relative;
+	}
+	.feat_property .details .tc_content {
+		padding: 20px;
+	}
+	.feat_property .details .tc_content h4 {
+		color: #484848;
+		
+		font-size: 18px;
+		font-weight: 700;
+		line-height: 1.2;
+		margin-bottom: 15px;
+	}
+	.feat_property .details .tc_content h4 a
+	{
+		font-weight: 700;
+		text-transform: capitalize;
+	}
+	.feat_property .details .tc_content p{
+		color: #6e6b6b;
+	
+		font-size: 14px;
+		font-weight: 300;
+		line-height: 20px;
+		text-transform: capitalize;
+	}
+	.feat_property .details .fp_footer {
+		border-top: 1px solid #eee;
+		display: inline-block;
+		padding: 20px 14px;
+		position: relative;
+		width: 100%;
+	}
+	.feat_property .details .fp_footer .fp_meta li {
+		margin-right: 10px;
+		vertical-align: middle;
+	}
+	.feat_property .details .fp_footer .fp_meta li a {
+		align-items: center;
+		color: #484848;
+		/* font-family: Nunito; */
+		font-size: 16px;
+		line-height: 1.2;
+	}
+	.feat_property .details .fp_footer .fp_meta li:nth-child(2) {
+		margin-right: 10px;
+		text-transform: capitalize;
+	}
+	.feat_property .details .fp_footer .fp_meta li a {
+		align-items: center;
+		color: #484848;
+		/* font-family: Nunito; */
+		font-size: 16px;
+		line-height: 1.2;
+	}
+	.feat_property .details .fp_footer .fp_pdate {
+		color: #484848;
+		font-size: 16px;
+		line-height: 1.2;
+		
+	}
+	.feat_property .details .fp_footer .fp_meta li img {
+		border-radius: 50%;
+		height: 40px;
+		object-fit: cover;
+		width: 40px;
+	}	
