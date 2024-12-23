@@ -59,6 +59,14 @@
     <!-- Categories Section Begin -->
     <section class="categories">
         <div class="container">
+        <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title">
+                        <h2>Trending</h2>
+                    </div>
+                  
+                </div>
+            </div>
             <div class="row">
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
