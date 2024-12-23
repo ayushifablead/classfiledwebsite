@@ -3,7 +3,10 @@
     padding: 20px;
 }
 .like-icon{
-    color: black;
+    color: #7fad39;
     position: relative;
     top: 9px;
+}
+.icon-color{
+    color: #7fad39;
 }
