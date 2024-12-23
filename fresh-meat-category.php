@@ -192,11 +192,9 @@
                 </div> -->
                 <div class="col-lg-12 col-md-6">
                     <div class="product__discount">
-                        <div class="section-title product__discount__title">
-                            <h2>Sale Off</h2>
-                        </div>
-                        <div class="row">
-                            <div class="product__discount__slider owl-carousel">
+                        
+                        <div class="row justify-content-center">
+                            <!-- <div class="product__discount__slider owl-carousel">
                                 <div class="col-lg-4">
                                     <div class="product__discount__item">
                                         <div class="product__discount__item__pic set-bg"
@@ -237,10 +235,135 @@
                                 </div>
                                 
                                
-                                
+                                <div class="product__pagination">
+                        <a href="#">1</a>
+                        <a href="#">2</a>
+                        <a href="#">3</a>
+                        <a href="#"><i class="fa fa-long-arrow-right"></i></a>
+                    </div>
                                 
                               
+                            </div> -->
+                            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                <div class="featured__item">
+                                    <div class="featured__item__pic set-bg" data-setbg="img/categories/2.png">
+                                        <ul class="featured__item__pic__hover">
+                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                        </ul>
+                                    </div>
+                                    <div class="featured__item__text">
+                                        <h6><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h5>$143.00</h5>
+                                    </div>
+                                </div>
                             </div>
+
+                            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                <div class="featured__item">
+                                    <div class="featured__item__pic set-bg" data-setbg="img/categories/table.jpg">
+                                        <ul class="featured__item__pic__hover">
+                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                        </ul>
+                                    </div>
+                                    <div class="featured__item__text">
+                                        <h6><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h5>$150.00</h5>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                <div class="featured__item">
+                                    <div class="featured__item__pic set-bg" data-setbg="img/categories/table-1.jpg">
+                                        <ul class="featured__item__pic__hover">
+                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                        </ul>
+                                    </div>
+                                    <div class="featured__item__text">
+                                        <h6><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h5>$100.00</h5>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                <div class="featured__item">
+                                    <div class="featured__item__pic set-bg" data-setbg="img/categories/6.jpg">
+                                        <ul class="featured__item__pic__hover">
+                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                        </ul>
+                                    </div>
+                                    <div class="featured__item__text">
+                                        <h6><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h5>$133.00</h5>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                <div class="featured__item">
+                                    <div class="featured__item__pic set-bg" data-setbg="img/categories/2table.jpg">
+                                        <ul class="featured__item__pic__hover">
+                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                        </ul>
+                                    </div>
+                                    <div class="featured__item__text">
+                                        <h6><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h5>$200.00</h5>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                <div class="featured__item">
+                                    <div class="featured__item__pic set-bg" data-setbg="img/categories/3.png">
+                                        <ul class="featured__item__pic__hover">
+                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                        </ul>
+                                    </div>
+                                    <div class="featured__item__text">
+                                        <h6><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h5>$213.00</h5>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                <div class="featured__item">
+                                    <div class="featured__item__pic set-bg" data-setbg="img/categories/products-2.jpg">
+                                        <ul class="featured__item__pic__hover">
+                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                        </ul>
+                                    </div>
+                                    <div class="featured__item__text">
+                                        <h6><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h5>$153.00</h5>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                <div class="featured__item">
+                                    <div class="featured__item__pic set-bg" data-setbg="img/categories/1table.jpg">
+                                        <ul class="featured__item__pic__hover">
+                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                        </ul>
+                                    </div>
+                                    <div class="featured__item__text">
+                                        <h6><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h5>$163.00</h5>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                       <div class="text-center">
+                         <div class="product__pagination">
+                            <a href="#">1</a>
+                            <a href="#">2</a>
+                            <a href="#">3</a>
+                            <a href="#" class="pagination-a"><i class="fa fa-long-arrow-right "></i></a>
+                        </div>
+                    </div>
                         </div>
                     </div>
                   
