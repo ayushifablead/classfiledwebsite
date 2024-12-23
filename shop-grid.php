@@ -25,7 +25,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-5">
                     <div class="sidebar">
-                        <div class="sidebar__item">
+                        <!-- <div class="sidebar__item">
                             <h4>Department</h4>
                             <ul>
                                 <li><a href="fresh-meat-category.php">Fresh Meat</a></li>
@@ -123,7 +123,7 @@
                                     <input type="radio" id="tiny">
                                 </label>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="sidebar__item">
                             <div class="latest-product__text">
                                 <h4>Latest Products</h4>

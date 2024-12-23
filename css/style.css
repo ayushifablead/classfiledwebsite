@@ -1284,7 +1284,7 @@ img.cover.img-whp.w-100 {
 }
 
 .product__discount__item__pic {
-	height: 270px;
+	height: 324px;
 	position: relative;
 	overflow: hidden;
 }
@@ -4019,3 +4019,5 @@ img.cover.img-whp.w-100 {
 		object-fit: cover;
 		width: 40px;
 	}	
+
+	
