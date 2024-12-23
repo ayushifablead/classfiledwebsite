@@ -1,0 +1,9 @@
+.featured__item__text.category{
+    text-align: left;
+    padding: 20px;
+}
+.like-icon{
+    color: black;
+    position: relative;
+    top: 9px;
+}

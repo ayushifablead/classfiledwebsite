@@ -1288,17 +1288,18 @@ section.categories {
 }
 
 .product__discount__item__pic .product__discount__percent {
-	height: 45px;
-	width: 45px;
-	background: #dd2222;
+	height: 35px;
+	width: 35px;
+	background: #fff;
 	border-radius: 50%;
-	font-size: 14px;
+	font-size: 20px;
 	color: #ffffff;
 	line-height: 45px;
 	text-align: center;
 	position: absolute;
-	left: 15px;
+	right: 15px;
 	top: 15px;
+	cursor: pointer;
 }
 
 .product__item__pic__hover {
