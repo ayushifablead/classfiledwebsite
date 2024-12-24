@@ -11,7 +11,7 @@
                             <!-- <p>Free Pickup and Delivery Available</p> -->
                              <div class="d-flex justify-content-center">
                             <button type="submit" class="view_button_dasboard_page mx-2" onclick="window.location.href='about-us.php'">About Us</button>
-                            <button type="submit" class="view_button_dasboard_page mx-2 " onclick="window.location.href='contact.php'">Contact </button>
+                            <button type="submit" class="view_button_dasboard_page mx-2 " onclick="window.location.href='contact.php'">Contact Us</button>
 </div>
                         </div>
                     </div>
@@ -66,7 +66,7 @@
                 <div class="col-lg-12">
                 <div class="d-flex justify-content-between section-title">
                         <h2>Trending</h2>
-                        <button type="submit" class="view_button_dasboard_page"    onclick="window.location.href='shop-grid.php'">View Trending</button>
+                        <button type="submit" class="view_button_dasboard_page"    onclick="window.location.href='fresh-meat-category.php'">View Trending</button>
                     </div>
                   
                 </div>
