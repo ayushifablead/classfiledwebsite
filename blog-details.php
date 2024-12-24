@@ -21,11 +21,11 @@
     <!-- Blog Details Hero End -->
 
     <!-- Blog Details Section Begin -->
-    <section class="blog-details spad">
+    <section class="blog-details">
         <div class="container">
             <div class="row">
                
-                <div class="col-lg-8 col-md-7 order-md-1 order-1 card mr-4">
+                <div class="col-lg-8 col-md-7 order-md-1 order-1 card">
                     <div class="blog__details__text pt-3">
                         <img src="img/blog/blog_details-1.jpg" alt="" class="rounded">
                         <h4 class="title">Lorem ipsum dolor sit amet.</h4>
@@ -201,8 +201,8 @@
 
 
                 </div>
-                <div class="col-lg-3 col-md-5 order-md-1 order-2 card">
-                    <div class="blog__sidebar">
+                <div class="col-lg-4 col-md-5 order-md-1 order-2">
+                    <div class="blog__sidebar card border-padding">
                         <div class="blog__sidebar__search">
                             <form action="#">
                                 <input type="text" placeholder="Search...">
@@ -220,38 +220,38 @@
                             </ul>
                         </div>
                         <div class="blog__sidebar__item">
-                            <h4>Recent News</h4>
+                            <h4>Recent Post</h4>
                             <div class="blog__sidebar__recent">
                                 <a href="#" class="blog__sidebar__recent__item">
                                     <div class="blog__sidebar__recent__item__pic">
-                                        <img src="img/blog/sidebar/sr-1.jpg" alt="">
+                                        <img src="img/banner/about-image.jpg" alt="" Style="width: 70px;">
                                     </div>
                                     <div class="blog__sidebar__recent__item__text">
-                                        <h6>09 Kinds Of Vegetables<br /> Protect The Liver</h6>
+                                        <h6>Sed porttitor lectus.  <br /> Vestibulum ac diam sit amet</h6>
                                         <span>MAR 05, 2019</span>
                                     </div>
                                 </a>
                                 <a href="#" class="blog__sidebar__recent__item">
                                     <div class="blog__sidebar__recent__item__pic">
-                                        <img src="img/blog/sidebar/sr-2.jpg" alt="">
+                                        <img src="img/banner/counter-bg.jpg" alt="" Style="width: 70px;">
                                     </div>
                                     <div class="blog__sidebar__recent__item__text">
-                                        <h6>Tips You To Balance<br /> Nutrition Meal Day</h6>
+                                        <h6>Vestibulum ac diam.<br />Sed porttitor lectus nibh</h6>
                                         <span>MAR 05, 2019</span>
                                     </div>
                                 </a>
                                 <a href="#" class="blog__sidebar__recent__item">
                                     <div class="blog__sidebar__recent__item__pic">
-                                        <img src="img/blog/sidebar/sr-3.jpg" alt="">
+                                        <img src="img/blog/blog_details-1.jpg" alt="" Style="width: 70px;">
                                     </div>
                                     <div class="blog__sidebar__recent__item__text">
-                                        <h6>4 Principles Help You Lose <br />Weight With Vegetables</h6>
+                                        <h6>Sed porttitor lectus.<br />Vestibulum ac diam</h6>
                                         <span>MAR 05, 2019</span>
                                     </div>
                                 </a>
                             </div>
                         </div>
-                        <div class="blog__sidebar__item">
+                        <!-- <div class="blog__sidebar__item">
                             <h4>Search By</h4>
                             <div class="blog__sidebar__item__tags">
                                 <a href="#">Apple</a>
@@ -261,7 +261,7 @@
                                 <a href="#">Healthy Food</a>
                                 <a href="#">Lifestyle</a>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
@@ -270,61 +270,142 @@
     <!-- Blog Details Section End -->
 
     <!-- Related Blog Section Begin -->
-    <section class="related-blog spad">
+    <section class="related-blog">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="section-title related-blog-title">
+                    <div class="section-title">
                         <h2>Post You May Like</h2>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                    <div class="blog__item">
-                        <div class="blog__item__pic">
-                            <img src="img/blog/blog-1.jpg" alt="">
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="for_blog feat_property my-3">
+                    <div class="thumb">
+                        <a href="blog-details.php">
+                            <img class="img-whp cover w-100" src="img/categories/car1.png" alt="Redfin Ranks the Most Competitive Neighborhoods of 2025">
+                        </a>
+                    </div>
+                    <div class="details">
+                        <div class="tc_content">
+                            <h4 class="mb15">
+                                <a href="blog-details.php">
+                                Cooking tips make cooking simple
+                                </a>
+                            </h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis et sem sed sollicitudin. Donec non odio neque. Aliquam hendrerit sollicitudin pur...
+
+                            </p>
                         </div>
-                        <div class="blog__item__text">
-                            <ul>
-                                <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
-                                <li><i class="fa fa-comment-o"></i> 5</li>
+                        <div class="fp_footer d-flex justify-content-between align-items-center">
+                            <ul class="fp_meta mb0">
+                                <li class="list-inline-item">
+                                    <a href="blog-details.php">
+                                        <img src="img/categories/car1.png" alt="admin">
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="blog-details.php">
+                                        admin
+                                    </a>
+                                </li>
                             </ul>
-                            <h5><a href="#">Cooking tips make cooking simple</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <div class="fp_pdate float-end">
+                                <a href="blog-details.php">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"></path></svg>
+                                     21 Oct 2024
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                    <div class="blog__item">
-                        <div class="blog__item__pic">
-                            <img src="img/blog/blog-2.jpg" alt="">
+            </div>
+          
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="for_blog feat_property my-3">
+                    <div class="thumb">
+                        <a href="blog-details.php">
+                            <img class="img-whp cover w-100" src="img/categories/6.jpg" alt="Redfin Ranks the Most Competitive Neighborhoods of 2025">
+                        </a>
+                    </div>
+                    <div class="details">
+                        <div class="tc_content">
+                            <h4 class="mb15">
+                                <a href="blog-details.php">
+                                6 ways to prepare breakfast for 30
+                                </a>
+                            </h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis et sem sed sollicitudin. Donec non odio neque. Aliquam hendrerit sollicitudin pur...
+
+                            </p>
                         </div>
-                        <div class="blog__item__text">
-                            <ul>
-                                <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
-                                <li><i class="fa fa-comment-o"></i> 5</li>
+                        <div class="fp_footer d-flex justify-content-between align-items-center">
+                            <ul class="fp_meta mb0">
+                                <li class="list-inline-item">
+                                    <a href="blog-details.php">
+                                        <img src="img/categories/6.jpg" alt="admin">
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="blog-details.php">
+                                        user
+                                    </a>
+                                </li>
                             </ul>
-                            <h5><a href="#">6 ways to prepare breakfast for 30</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <div class="fp_pdate float-end">
+                                <a href="blog-details.php">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"></path></svg>
+                                     21 Oct 2024
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6">
-                    <div class="blog__item">
-                        <div class="blog__item__pic">
-                            <img src="img/blog/blog-3.jpg" alt="">
+            </div>
+
+            <div class="col-lg-4 col-md-4 col-sm-6">
+                <div class="for_blog feat_property my-3">
+                    <div class="thumb">
+                        <a href="blog-details.php">
+                            <img class="img-whp cover w-100" src="img/categories/3.png" alt="Redfin Ranks the Most Competitive Neighborhoods of 2025">
+                        </a>
+                    </div>
+                    <div class="details">
+                        <div class="tc_content">
+                            <h4 class="mb15">
+                                <a href="blog-details.php">
+                                Visit the clean farm in the US
+                                </a>
+                            </h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mollis et sem sed sollicitudin. Donec non odio neque. Aliquam hendrerit sollicitudin pur...
+
+                            </p>
                         </div>
-                        <div class="blog__item__text">
-                            <ul>
-                                <li><i class="fa fa-calendar-o"></i> May 4,2019</li>
-                                <li><i class="fa fa-comment-o"></i> 5</li>
+                        <div class="fp_footer d-flex justify-content-between align-items-center">
+                            <ul class="fp_meta mb0">
+                                <li class="list-inline-item">
+                                    <a href="blog-details.php">
+                                        <img src="img/categories/car1.png" alt="admin">
+                                    </a>
+                                </li>
+                                <li class="list-inline-item">
+                                    <a href="blog-details.php">
+                                        user
+                                    </a>
+                                </li>
                             </ul>
-                            <h5><a href="#">Visit the clean farm in the US</a></h5>
-                            <p>Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat </p>
+                            <div class="fp_pdate float-end">
+                                <a href="blog-details.php">
+                                    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 448 512" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg"><path d="M148 288h-40c-6.6 0-12-5.4-12-12v-40c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v40c0 6.6-5.4 12-12 12zm108-12v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 96v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm-96 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm192 0v-40c0-6.6-5.4-12-12-12h-40c-6.6 0-12 5.4-12 12v40c0 6.6 5.4 12 12 12h40c6.6 0 12-5.4 12-12zm96-260v352c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V112c0-26.5 21.5-48 48-48h48V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h128V12c0-6.6 5.4-12 12-12h40c6.6 0 12 5.4 12 12v52h48c26.5 0 48 21.5 48 48zm-48 346V160H48v298c0 3.3 2.7 6 6 6h340c3.3 0 6-2.7 6-6z"></path></svg>
+                                     21 Oct 2024
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
+            </div>
+
             </div>
         </div>
     </section>

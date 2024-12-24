@@ -312,3 +312,26 @@ i, span, a {
     border-radius: 10px;
     border: none;
 }
+.blog__sidebar__item ul{
+    margin-left: 20px;
+}
+.border-padding{
+    padding: 15px;
+}
+.blog-details{
+    margin-top: 60px;
+}
+.section-title{
+    text-align: left !important;
+}
+@media only screen and (max-width: 1023px)  {
+    .mbp_blockquote{
+        height: 221px;
+    }
+    .blog_details_comment .details_comment .comment li .comment_replay{
+        padding-left: 0px !important;
+    }
+}
+@media only screen and (max-width: 600px) {
+    
+}
