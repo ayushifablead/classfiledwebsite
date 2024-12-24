@@ -60,8 +60,8 @@
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
-                                        <small class="mb-2">Table Combo</small>
-                                        <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <small class="mb-2"><a href="product.php">Table Combo</a></small>
+                                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">2 Days ago</small>
                                         </div>
                                    
