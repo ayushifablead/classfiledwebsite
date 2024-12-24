@@ -137,3 +137,178 @@
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
     cursor: pointer;
 }
+.blog-headding{
+    color: #3f3d59 !important;
+}
+.blog__details__text .title {
+    font-size: 36px;
+    font-weight: 700;
+}
+.meta, .tags, .comment, .comment_replay{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+}
+.blog_date {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.blog_date .meta li {
+    display: inline-block;
+    font-size: 14px;
+    color: #6D7588;
+    text-transform: uppercase;
+}
+.blog_date .meta li a + a::before {
+    position: absolute;
+    content: '';
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+    background-color: #6D7588;
+    left: -9px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.mbp_blockquote {
+    background-color: #f7f7f7;
+    border-left: 8px solid #3f3d59;
+    border-radius: 8px;
+    height: 147px;
+    margin-top: 25px;
+    padding: 25px 30px 30px 40px;
+}
+.mbp_blockquote .blockquote {
+    position: relative;
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+}
+.mbp_blockquote .blockquote span {
+    color: #bbb;
+    font-size: 16px;
+    font-style: italic;
+    line-height: .333;
+}
+.mbp_blockquote .blockquote em {
+    color: #484848;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 1.714;
+}
+.blog_details_tag {
+    padding-top: 30px;
+}
+.blog_details_title .title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #3C4559;
+    border-bottom: 1px solid rgba(210, 210, 210, 0.4);
+    position: relative;
+    padding: 10px 0;
+}
+.blog_details_title .title::before {
+    position: absolute;
+    content: '';
+    width: 3px;
+    height: 15px;
+    background-color: #3f3d59;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    top: 50%;
+    left: -16px;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+.blog_details_tag .details_tag {
+    padding-top: 10px;
+}
+.blog_details_tag .details_tag .tags li {
+    margin-top: 10px;
+    display: inline-block;
+}
+.blog_details_tag .details_tag .tags li a {
+    font-size: 16px;
+    font-weight: 400;
+    color: #3C4559;
+    background-color: rgba(188, 193, 206, 0.15);
+    padding: 6px 15px;
+    border-radius: 2px;
+}
+
+i, span, a {
+    display: inline-block;
+}
+.blog__details__text {
+    margin-bottom: 15px !important;
+}
+.blog_details_comment .details_comment .comment li .single_comment {
+    margin-top: 30px;
+}
+.blog_details_comment .details_comment .comment li .single_comment .comment_author img {
+    border-radius: 50%;
+    width: 50%;
+}
+.blog_details_comment .details_comment .comment li .single_comment .comment_content .date {
+    font-size: 14px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.blog_details_comment .details_comment .comment li .single_comment .comment_content .replay {
+    font-size: 14px;
+    color: #3f3d59;
+    margin-top: 15px;
+}
+.blog_details_comment .details_comment .comment li .comment_replay {
+    padding-left: 110px;
+}
+.blog_details_form .single_form {
+    margin-top: 20px;
+    position: relative;
+}
+.blog_details_form .single_form input {
+    width: 100%;
+    height: 50px;
+    padding: 0 25px;
+    padding-left: 40px;
+    border-radius: 5px;
+    border: 1px solid #BCC1CE;
+    -webkit-transition: all 0.3s ease-out 0s;
+    -moz-transition: all 0.3s ease-out 0s;
+    -ms-transition: all 0.3s ease-out 0s;
+    -o-transition: all 0.3s ease-out 0s;
+    transition: all 0.3s ease-out 0s;
+}
+.blog_details_form .single_form textarea {
+    resize: none;
+    padding: 0 25px;
+    padding-top: 15px;
+    height: 175px;
+    width: 100%;
+}
+.blog_details_form .single_form i {
+    position: absolute;
+    top: 17px;
+    left: 15px;
+    font-size: 16px;
+    color: #6D7588;
+}
+.blog_details_form .single_form textarea{
+    border-radius: 5px;
+    border: 1px solid #BCC1CE;
+}
+.main-btn{
+   
+    color: #ffffff;
+    font-weight: 700;
+    background: #3f3d59;
+    text-align: center;
+    border-radius: 10px;
+    border: none;
+}
