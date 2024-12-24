@@ -75,27 +75,27 @@
                 <div class="categories__slider owl-carousel">
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="img/categories/products-1.jpg">
-                            <h5><a href="fresh-meat-category.php">Macbook </a></h5>
+                            <h5><a href="category.php">Macbook </a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="img/categories/products-2.jpg">
-                            <h5><a href="fresh-meat-category.php">Study Table</a></h5>
+                            <h5><a href="category.php">Study Table</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="img/categories/products-3.jpg">
-                            <h5><a href="fresh-meat-category.php">11inch Macbook</a></h5>
+                            <h5><a href="category.php">11inch Macbook</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="img/categories/image-1.jpg">
-                            <h5><a href="fresh-meat-category.php">Table Combo</a></h5>
+                            <h5><a href="category.php">Table Combo</a></h5>
                         </div>
                     </div>
                     <div class="col-lg-3">
                         <div class="categories__item set-bg" data-setbg="img/categories/products-1.jpg">
-                            <h5><a href="fresh-meat-category.php">Macbook </a></h5>
+                            <h5><a href="category.php">Macbook </a></h5>
                         </div>
                     </div>
                 </div>
