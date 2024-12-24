@@ -78,9 +78,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$399.00</span>
@@ -103,9 +103,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$259.00</span>
@@ -127,9 +127,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$299.00</span>
@@ -153,9 +153,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$399.00</span>
@@ -181,9 +181,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$399.00</span>
@@ -206,9 +206,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$259.00</span>
@@ -230,9 +230,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$299.00</span>
@@ -256,9 +256,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$399.00</span>
@@ -283,9 +283,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$399.00</span>
@@ -308,9 +308,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$259.00</span>
@@ -332,9 +332,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$299.00</span>
@@ -358,9 +358,9 @@
                                                 <div class="ads_card_content">
                                                 <div class="meta d-flex justify-content-between">
                                                     <p>Ram &amp; Laptop</p>
-                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                    <a class="like" href="#"><i class="fa fa-heart icon-color"></i></a>
                                                 </div>
-                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <h6 class="title"><a href="shop-details.php">8 GB DDR4 Ram, 4th Gen</a></h6>
                                                 <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
                                                 <div class="ads_price_date d-flex justify-content-between">
                                                     <span class="price">$399.00</span>
@@ -373,10 +373,10 @@
 
 
 
-                                    
+
                                     <div class="text-center mb-2">
                          <div class="product__pagination">
-                            <a href="#">1</a>
+                            <a href="#" class="active">1</a>
                             <a href="#">2</a>
                             <a href="#">3</a>
                             <a href="#" class="pagination-a"><i class="fa fa-long-arrow-right "></i></a>

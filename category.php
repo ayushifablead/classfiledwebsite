@@ -78,7 +78,7 @@
                                     </div>
                                     <div class="featured__item__text category">
                                     <small class="mb-2">Macbook </small>
-                                    <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                    <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                     
                                             <small class="text-muted">1 Days ago</small>
                                         </div>
@@ -96,7 +96,7 @@
                                     </div>
                                     <div class="featured__item__text category">
                                     <small class="mb-2">Stady Table</small>
-                                    <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                    <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">4 Days ago</small>
                                         </div>
                                     
@@ -112,7 +112,7 @@
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category"> <small class="mb-2">11inch Macbook </small>
-                                    <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                    <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                     
                                             <small class="text-muted">4 Days ago</small>
                                         </div>
@@ -131,7 +131,7 @@
                                     </div>
                                     <div class="featured__item__text category">
                                         <small class="mb-2">Lorem Ipsum</small>
-                                        <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">2 Days ago</small>
                                        
                                     </div>
@@ -148,7 +148,7 @@
                                     </div>
                                     <div class="featured__item__text category">
                                     <small class="mb-2">Computer </small>
-                                    <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                    <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">1 Days ago</small>
                                       
                                     </div>
@@ -165,7 +165,7 @@
                                     </div>
                                     <div class="featured__item__text category">
                                     <small class="mb-2">Table Combo</small>
-                                    <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                    <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">4 Days ago</small>
                                         </div>
                                    
@@ -181,7 +181,7 @@
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category"> <small class="mb-2">Table Combo</small>
-                                    <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                    <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">4 Days ago</small>
                                        
                                     </div>
@@ -200,7 +200,7 @@
                                     </div>
                                     <div class="featured__item__text category">
                                         <small class="mb-2">Table Combo</small>
-                                        <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">2 Days ago</small>
                                        
                                     </div>
@@ -217,7 +217,7 @@
                                     </div>
                                     <div class="featured__item__text category">
                                     <small class="mb-2">Table Combo</small>
-                                    <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                    <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">1 Days ago</small>
                                       
                                     </div>
@@ -234,7 +234,7 @@
                                     </div>
                                     <div class="featured__item__text category">
                                     <small class="mb-2">Table Combo</small>
-                                    <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                    <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">4 Days ago</small>
                                         </div>
                                    
@@ -250,7 +250,7 @@
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category"> <small class="mb-2">Table Combo</small>
-                                    <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
+                                    <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">4 Days ago</small>
                                        
                                     </div>
@@ -259,7 +259,7 @@
                             
                        <div class="text-center mb-5">
                          <div class="product__pagination">
-                            <a href="#">1</a>
+                            <a href="#" class="active">1</a>
                             <a href="#">2</a>
                             <a href="#">3</a>
                             <a href="#" class="pagination-a"><i class="fa fa-long-arrow-right "></i></a>
