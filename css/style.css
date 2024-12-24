@@ -4204,41 +4204,69 @@ footer.footer.spad p{
 	img.image-carousel.active {
 		border: 2px solid red; /* Active red border */
 	  }
-	  .listing_single_description {
-		background-color: #fff;
-		border: 1px solid #ebebeb;
-		border-radius: 8px 8px 0 0;
-		padding: 15px 30px 5px;
-	}
-	.lsd_list {
-		margin-bottom: 15px;
-		position: relative;
-	}
-	.list-inline-item:not(:last-child) {
-		margin-right: 0;
-	}
-	.additional_details {
+	
+
+	  .additional_details {
 		background-color: #fff;
 		border: 1px solid #ebebeb;
 		padding: 15px 30px;
-		position: relative;
+		/* position: relative; */
+		width: 100%;
+		border-radius: 10px;
 	}
-	.additional_details ul li p, .additional_details ul li p span {
+	.additional_details h4.mb-3.mb15 {
 		color: #484848;
-		font-family: Nunito;
-		font-size: 14px;
-		line-height: 2.857;
+		font-weight: 700;
+		line-height: 1.2;
+		text-transform: capitalize;
 	}
-	.application_statics {
-		background-color: #fff;
-		border-radius: 5px;
-		box-shadow: 0 1px 4px #00000017;
-		padding: 30px;
-		position: relative;
+	
+	.additional_details ul.list-inline-item {
+		list-style: none;
+	}	
+	svg.icons {
+		color: #3f3d59;
+		font-size: 18px;
+		margin: 0 5px 0 0;
 	}
+
 	.ProductSingleContent-pading {
 		padding: 30px;
 	}
-	.mbp_comment_form.style2 {
-		padding: 10px 0 0;
+	.mbp_pagination_comments {
+		background-color: #fff;
+		position: relative;
+		border: 1px solid #ebebeb;
+		border-radius: 10px;
+	}
+	.mbp_pagination_comments .total_review {
+		display: flex;
+		position: relative;
+		align-items: center;
+		margin-bottom: 20px;
+	}
+	.bsp_reveiw_wrt h4, .mbp_comment_form.style2 h4 {
+		color: #484848;
+		font-family: Nunito;
+		font-size: 18px;
+		font-weight: 700;
+		line-height: 1.2;
+		margin-bottom: 20px;
+	}
+	.mbp_pagination_comments .total_review h4 {
+		font-weight: 600;
+		margin-bottom: 0;
+	}
+	.rr--dir-x {
+		flex-direction: row;
+	}
+	.rr--group {
+		display: flex
+	;
+		position: relative;
+		width: 100%;
+	}
+	.rr--on .rr--svg {
+		fill: none;
+		fill: var(--rr--fill-on-color, none);
 	}
