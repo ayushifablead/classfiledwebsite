@@ -4092,7 +4092,7 @@ footer.footer.spad p{
 	}  
 	.feat_property .thumb {
 		background: #1d293e;
-		border-radius: 8px;
+		/* border-radius: 8px; */
 		margin: 0;
 		overflow: hidden;
 		position: relative;
