@@ -54,9 +54,9 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>
+                                   
                                         <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -71,13 +71,13 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table.jpg">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>    
+                                    
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
-                                    <small class="mb-2">Table Combo</small>
+                                    <small class="mb-2">Macbook </small>
                                     <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
                                     
                                             <small class="text-muted">1 Days ago</small>
@@ -89,13 +89,13 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table-1.jpg">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>   
+                                    
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
-                                    <small class="mb-2">Table Combo</small>
+                                    <small class="mb-2">Stady Table</small>
                                     <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">4 Days ago</small>
                                         </div>
@@ -106,12 +106,12 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/6.jpg">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>    
+                                 
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
-                                    <div class="featured__item__text category"> <small class="mb-2">Table Combo</small>
+                                    <div class="featured__item__text category"> <small class="mb-2">11inch Macbook </small>
                                     <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
                                     
                                             <small class="text-muted">4 Days ago</small>
@@ -124,14 +124,13 @@
                                 <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>   
+                                   
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
-                                        <small class="mb-2">Table Combo</small>
+                                        <small class="mb-2">Lorem Ipsum</small>
                                         <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">2 Days ago</small>
                                        
@@ -142,13 +141,13 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table.jpg">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>   
+                                      
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
-                                    <small class="mb-2">Table Combo</small>
+                                    <small class="mb-2">Computer </small>
                                     <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
                                             <small class="text-muted">1 Days ago</small>
                                       
@@ -159,9 +158,9 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table-1.jpg">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>   
+                                    
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -176,9 +175,9 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/6.jpg">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>    
+                                    
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category"> <small class="mb-2">Table Combo</small>
@@ -193,10 +192,10 @@
                                 <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>    
+                                    
+                                  
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -211,9 +210,9 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table.jpg">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>   
+                                   
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -228,9 +227,9 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table-1.jpg">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>   
+                                    
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -245,9 +244,9 @@
                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                 <div class="featured__item card">
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/6.jpg">
-                                    <div class="product__discount__percent"> <i class="fa fa-heart like-icon" aria-hidden="true"></i></div>   
+                                   
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category"> <small class="mb-2">Table Combo</small>
