@@ -6,11 +6,11 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="breadcrumb__text">
-                        <h2>Table Combo</h2>
+                        <h2>Category</h2>
                         <div class="breadcrumb__option">
                             <a href="./index.php">Home</a>
-                           <a href="./shop-grid.php">Shop</a>
-                            <span>Table Combo</span>
+                           <!-- <a href="./product.php">Shop</a> -->
+                            <span>Category</span>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
                                    
                                         <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -73,7 +73,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table.jpg">
                                     
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -91,7 +91,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table-1.jpg">
                                     
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -108,7 +108,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/6.jpg">
                                  
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category"> <small class="mb-2">11inch Macbook </small>
@@ -126,7 +126,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
                                    
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -143,7 +143,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table.jpg">
                                       
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -160,7 +160,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table-1.jpg">
                                     
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -177,7 +177,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/6.jpg">
                                     
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category"> <small class="mb-2">Table Combo</small>
@@ -195,7 +195,7 @@
                                     
                                   
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -212,7 +212,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table.jpg">
                                    
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -229,7 +229,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table-1.jpg">
                                     
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category">
@@ -246,7 +246,7 @@
                                     <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/6.jpg">
                                    
                                     <ul class="featured__item__pic__hover">
-                                            <li><a href="shop-grid.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                         </ul>
                                     </div>
                                     <div class="featured__item__text category"> <small class="mb-2">Table Combo</small>

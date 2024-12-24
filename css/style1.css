@@ -1,3 +1,7 @@
+.featured__item__text.product-list{
+    padding: 10px;
+    text-align: left;
+}
 .featured__item__text.category{
    
     padding: 20px;
@@ -70,15 +74,42 @@
 
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   }
-  /* .featured__item__pic__hover{
-    position: absolute;
-    left: 180px!important;
-    top: 10px !important;
-    width: 100%;
-     text-align: left;
-  } */
+ 
   .featured__item:hover .featured__item__pic .featured__item__pic__hover{
     top: 10px;
     text-align: right!important;
     left: -9px !important;
+  }
+  .product_select .nice-select {
+    float: none;
+    height: 50px;
+    line-height: 50px;
+    padding: 0 20px;
+    width: 200px;
+    border: 1px solid #D2D2D2;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+
+/* Container styling for the image */
+.featured__item__pic {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    border-radius: 8px;
+    overflow: hidden; /* Ensures zoom effect doesn't go outside the boundaries */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition */
+  }
+  
+  /* Zoom on hover */
+  .featured__item__pic:hover {
+    transform: scale(1.1); /* Zoom in slightly */
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Add subtle shadow for depth */
+  }
+  
+  /* Optional: Hover effect for hover icons */
+  .featured__item__pic__hover li a:hover {
+    color: #ff0000; /* Change icon color on hover */
   }
