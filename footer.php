@@ -11,11 +11,8 @@
                          <h4>Classified</h4>
                          </a>
                         </div>
-                        <ul>
-                            <li>Address: 60-49 Road 11378 New York</li>
-                            <li>Phone: <a class="link-text" href="tel:+123456789"> +12-345-6789</a></li>
-                            <li>Email: <a class="link-text" href="mailto:info@gmail.com">info@gmail.com</a></li>
-                        </ul>
+                       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s. 
+</p>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-1">
@@ -33,13 +30,16 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-12">
+                <div class="footer__widget1">
+                <h6>Location</h6>
+                <ul>
+                            <li><i class="fa fa-map-marker" aria-hidden="true"></i>  Address: <a class="link-text" href="#"> 60-49 Road 11378 New York</a></li>
+                            <li><i class="fa fa-phone" aria-hidden="true"></i> Phone: <a class="link-text" href="tel:+123456789"> +12-345-6789</a></li>
+                            <li><i class="fa fa-envelope" aria-hidden="true"></i> Email: <a class="link-text" href="mailto:info@gmail.com">info@gmail.com</a></li>
+                        </ul>
+</div>
                     <div class="footer__widget">
-                        <h6>Join Our Newsletter Now</h6>
-                        <p>Get E-mail updates about our latest shop and special offers.</p>
-                        <form action="#">
-                            <input type="text" placeholder="Enter your mail">
-                            <button type="submit" class="site-btn">Subscribe</button>
-                        </form>
+                  
                         <div class="footer__widget__social">
                             <a href="#"><i class="fa fa-facebook"></i></a>
                             <a href="#"><i class="fa fa-instagram"></i></a>
@@ -48,6 +48,7 @@
                         </div>
                     </div>
                 </div>
+                
             </div>
             <div class="row">
                 <div class="col-lg-12">

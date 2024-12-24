@@ -205,7 +205,7 @@
                                     <li><a href="./blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li> -->
-                            <li><a href="./category.php">Categories</a></li>
+                            <li><a href="./category1.php">Categories</a></li>
                           <li><a href="login.php">Login</a></li>
                              <!--  <li><a href="./faqs.php">Faqs</a></li>
                             <li><a href="./contact.php">Contact</a></li> -->
