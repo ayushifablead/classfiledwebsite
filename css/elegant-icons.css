@@ -314,9 +314,9 @@ you can use the generic selector below, but it's slower:
 .icon_quotations_alt2:before {
 	content: "\7c";
 }
-.icon_clock_alt:before {
+/* .icon_clock_alt:before {
 	content: "\7d";
-}
+} */
 .icon_lock_alt:before {
 	content: "\7e";
 }
@@ -368,9 +368,9 @@ you can use the generic selector below, but it's slower:
 .icon_camera_alt:before {
 	content: "\e00f";
 }
-.icon_mail_alt:before {
+/* .icon_mail_alt:before {
 	content: "\e010";
-}
+} */
 .icon_cone_alt:before {
 	content: "\e011";
 }
@@ -407,9 +407,9 @@ you can use the generic selector below, but it's slower:
 .icon_compass_alt:before {
 	content: "\e01c";
 }
-.icon_pin_alt:before {
+/* .icon_pin_alt:before {
 	content: "\e01d";
-}
+} */
 .icon_pushpin_alt:before {
 	content: "\e01e";
 }
@@ -752,9 +752,9 @@ you can use the generic selector below, but it's slower:
 .icon_pause_alt:before {
 	content: "\e08f";
 }
-.icon_phone:before {
+/* .icon_phone:before {
 	content: "\e090";
-}
+} */
 .icon_upload:before {
 	content: "\e091";
 }

@@ -284,7 +284,7 @@
 <?php include 'header.php'; ?>
 
  <!-- Breadcrumb Section Begin -->
- <section class="breadcrumb-section set-bg" data-setbg="img/breadcrumb.jpg">
+ <section class="breadcrumb-section set-bg" data-setbg="img/categories/slider-1.jpg">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">

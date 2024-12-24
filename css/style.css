@@ -1345,8 +1345,8 @@ img.cover.img-whp.w-100 {
 -----------------------*/
 
 .product {
-	padding-top: 80px;
-	padding-bottom: 80px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 .product__discount {
@@ -3670,7 +3670,7 @@ footer.footer.spad p{
     box-shadow: 0 0 5px rgba(0,0,0,0.2);
     }
     .accordion .accordion-content{
-    margin:10px 0;
+    /* margin:10px 0; */
     border-radius: 5px; 
     overflow: hidden;
     }
@@ -3707,7 +3707,7 @@ footer.footer.spad p{
 	.accordion-content-even{
 		border: 1px solid #f8ebcb;
 	}
-	.accordion .accordion-content:hover{
+	.accordion .accordion-item:hover{
 		background-color: #3f3d59;
 		
 	}
@@ -4231,13 +4231,13 @@ footer.footer.spad p{
 	}
 
 	.ProductSingleContent-pading {
-		padding: 30px;
+		padding: 30px 30px 0px 30px;
 	}
 	.mbp_pagination_comments {
 		background-color: #fff;
 		position: relative;
-		border: 1px solid #ebebeb;
-		border-radius: 10px;
+		/* border: 1px solid #ebebeb;
+		border-radius: 10px; */
 	}
 	.mbp_pagination_comments .total_review {
 		display: flex;
@@ -4269,4 +4269,42 @@ footer.footer.spad p{
 	.rr--on .rr--svg {
 		fill: none;
 		fill: var(--rr--fill-on-color, none);
+	}
+
+	.product_single_content {
+		border: 1px solid #ebebeb;
+		border-radius: 10px;
+	}
+	
+	.dropzone {
+		min-height: auto;
+		padding: 1.5rem 1.75rem;
+		text-align: center;
+		cursor: pointer;
+		border: 1px dashed #009ef7;
+		background-color: #ecf8ff;
+		border-radius: .475rem !important;
+	}
+	.dropzone.dz-clickable {
+		cursor: pointer;
+	}
+	.upload-box {
+		border: 2px dashed #007bff;
+		border-radius: 8px;
+		padding: 6px;
+		text-align: center;
+		background-color: #f5faff;
+	}
+	.dropzone.dz-clickable * {
+		cursor: default;
+	}
+	.upload-label {
+		display: block;
+		cursor: pointer;
+		color: #007bff;
+	}
+	.upload-icon {
+		font-size: 24px;
+		margin-bottom: 10px;
+		display: inline-block;
 	}

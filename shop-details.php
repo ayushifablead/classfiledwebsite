@@ -48,7 +48,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <h4 class="mb-3">
-                            Property Details
+                            Product Details
                         </h4>
                     </div>
                     <div class="col-lg-4 col-md-6">
@@ -268,12 +268,13 @@
                     <textarea class="form-control mb-2 " rows="6" placeholder="Your Review" name="review"></textarea>
                 </div>
             
-            <div class="d-flex">
-               <button type="submit" class="view_button_dasboard_page mr-3">Submit</button>
-               <button type="submit" class="view_button_dasboard_page"   onclick="window.location.href='chat.php'">Mack an a offer</button>
-            </div>
+               
         </div>
     </form>
+    <div class="d-flex mb-4 px-4">
+               <button type="submit" class="view_button_dasboard_page mr-3">Submit</button>
+               <button type="submit" class="view_button_dasboard_page" onclick="window.location.href='chat.php'">Make an Offer</button>
+            </div>
 </div>
 </div>
 </div>

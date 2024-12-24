@@ -108,8 +108,8 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="d-flex justify-content-between section-title">
-                        <h2>Ads</h2>
-                        <button type="submit" class="view_button_dasboard_page"   onclick="window.location.href='shop-grid.php'">View Ads</button>
+                        <h2>Related Product</h2>
+                        <button type="submit" class="view_button_dasboard_page"   onclick="window.location.href='product.php'">View Product</button>
                     </div>
                   
                 </div>
