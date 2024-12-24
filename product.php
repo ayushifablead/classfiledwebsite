@@ -65,90 +65,324 @@
 
         <div class="tab-pane fade active show" id="grid" role="tabpanel" aria-labelledby="grid-tab">
                             <div class="product_grid">
-                                <div class="row">
+                                <div class="row justify-content-center">
                                 <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
-                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/4.png">
                                            
                                                 <ul class="featured__item__pic__hover">
                                                     <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                                 </ul>
                                             </div>
                                             <div class="featured__item__text product-list">
-                                                <small class="mb-2">Table Combo</small>
-                                                <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
-                                                <i class="fa fa-map-marker icon-color" aria-hidden="true"></i> 123, Sint, Mumbai-395032
-                                                <h5 class="mt-2">$143.00</h5>
-                                                <div class="d-flex justify-content-between mt-2">
-                                                    <small class="text-muted">Mumbai</small>
-                                                    <small class="text-muted">2 Days ago</small>
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
                                                 </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$399.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
                                             </div>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
-                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/car1.png">
                                            
                                                 <ul class="featured__item__pic__hover">
                                                     <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                                 </ul>
                                             </div>
                                             <div class="featured__item__text product-list">
-                                                <small class="mb-2">Table Combo</small>
-                                                <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
-                                                <i class="fa fa-map-marker icon-color" aria-hidden="true"></i> 123, Sint, Mumbai-395032
-                                                <h5 class="mt-2">$143.00</h5>
-                                                <div class="d-flex justify-content-between mt-2">
-                                                    <small class="text-muted">Mumbai</small>
-                                                    <small class="text-muted">2 Days ago</small>
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
                                                 </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$259.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="featured__item card">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/laptop2.png">
+                                           
+                                                <ul class="featured__item__pic__hover">
+                                                    <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                                </ul>
+                                            </div>
+                                            <div class="featured__item__text product-list">
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$299.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                        <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="featured__item card">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/3.png">
+                                           
+                                                <ul class="featured__item__pic__hover">
+                                                    <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                                </ul>
+                                            </div>
+                                            <div class="featured__item__text product-list">
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$399.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+
+                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="featured__item card">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/4.png">
+                                           
+                                                <ul class="featured__item__pic__hover">
+                                                    <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                                </ul>
+                                            </div>
+                                            <div class="featured__item__text product-list">
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$399.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
                                             </div>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
-                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/car1.png">
                                            
                                                 <ul class="featured__item__pic__hover">
                                                     <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                                 </ul>
                                             </div>
                                             <div class="featured__item__text product-list">
-                                                <small class="mb-2">Table Combo</small>
-                                                <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
-                                                <i class="fa fa-map-marker icon-color" aria-hidden="true"></i> 123, Sint, Mumbai-395032
-                                                <h5 class="mt-2">$143.00</h5>
-                                                <div class="d-flex justify-content-between mt-2">
-                                                    <small class="text-muted">Mumbai</small>
-                                                    <small class="text-muted">2 Days ago</small>
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
                                                 </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$259.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="featured__item card">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/laptop2.png">
+                                           
+                                                <ul class="featured__item__pic__hover">
+                                                    <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                                </ul>
+                                            </div>
+                                            <div class="featured__item__text product-list">
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$299.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                        <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="featured__item card">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/3.png">
+                                           
+                                                <ul class="featured__item__pic__hover">
+                                                    <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                                </ul>
+                                            </div>
+                                            <div class="featured__item__text product-list">
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$399.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="featured__item card">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/4.png">
+                                           
+                                                <ul class="featured__item__pic__hover">
+                                                    <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                                </ul>
+                                            </div>
+                                            <div class="featured__item__text product-list">
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$399.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
                                             </div>
                                         </div>
                                     </div>
 
                                     <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
-                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/car1.png">
                                            
                                                 <ul class="featured__item__pic__hover">
                                                     <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
                                                 </ul>
                                             </div>
                                             <div class="featured__item__text product-list">
-                                                <small class="mb-2">Table Combo</small>
-                                                <h6 class="mt-2"><a href="#">Etiam sit amet quam lorem</a></h6>
-                                                <i class="fa fa-map-marker icon-color" aria-hidden="true"></i> 123, Sint, Mumbai-395032
-                                                <h5 class="mt-2">$143.00</h5>
-                                                <div class="d-flex justify-content-between mt-2">
-                                                    <small class="text-muted">Mumbai</small>
-                                                    <small class="text-muted">2 Days ago</small>
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
                                                 </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$259.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="featured__item card">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/laptop2.png">
+                                           
+                                                <ul class="featured__item__pic__hover">
+                                                    <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                                </ul>
+                                            </div>
+                                            <div class="featured__item__text product-list">
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$299.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+                                        <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="featured__item card">
+                                            <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/3.png">
+                                           
+                                                <ul class="featured__item__pic__hover">
+                                                    <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
+                                                </ul>
+                                            </div>
+                                            <div class="featured__item__text product-list">
+                                                <div class="ads_card_content">
+                                                <div class="meta d-flex justify-content-between">
+                                                    <p>Ram &amp; Laptop</p>
+                                                    <a class="like" href="#"><i class="fa fa-heart"></i></a>
+                                                </div>
+                                                <h6 class="title"><a href="product-details.html">8 GB DDR4 Ram, 4th Gen</a></h6>
+                                                <p class="mb-0"><i class="fa fa-map-marker icon-color"></i> New York, USA</p>
+                                                <div class="ads_price_date d-flex justify-content-between">
+                                                    <span class="price">$399.00</span>
+                                                    <span class="date">25 Jan, 2023</span>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+                                    
+                                    <div class="text-center mb-2">
+                         <div class="product__pagination">
+                            <a href="#">1</a>
+                            <a href="#">2</a>
+                            <a href="#">3</a>
+                            <a href="#" class="pagination-a"><i class="fa fa-long-arrow-right "></i></a>
+                        </div>
+                    </div>
+
 
 
                                 </div>

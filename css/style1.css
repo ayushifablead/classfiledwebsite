@@ -7,12 +7,12 @@
     padding: 20px;
 }
 .like-icon{
-    color: #7fad39;
+    color: #3f3d59;
     position: relative;
     top: 9px;
 }
 .icon-color{
-    color: #7fad39;
+    color: #3f3d59;
 }
 .categories_top_bar {
     background-color: #fff;
@@ -113,3 +113,14 @@
   .featured__item__pic__hover li a:hover {
     color: #ff0000; /* Change icon color on hover */
   }
+  .ads_price_date .date {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #6c757d;
+}
+.ads_price_date .price {
+    font-size: 20px;
+    font-weight: 700;
+    color: #3f3d59;
+    margin-top: 10px;
+}
