@@ -319,5 +319,30 @@ const accordionContent = document.querySelectorAll(".accordion-content");
 
 
 
+          document.addEventListener("DOMContentLoaded", () => {
+            const gridTab = document.getElementById("grid-tab");
+            const listTab = document.getElementById("list-tab");
+            const productContainer = document.getElementById("category-container");
+          
+            gridTab.addEventListener("click", () => {
+              productContainer.classList.remove("list-view");
+              productContainer.classList.add("grid-view");
+              gridTab.classList.add("active");
+              listTab.classList.remove("active");
+            });
+          
+            listTab.addEventListener("click", () => {
+              productContainer.classList.remove("grid-view");
+              productContainer.classList.add("list-view");
+              listTab.classList.add("active");
+              gridTab.classList.remove("active");
+            });
+          });
+
+
+
+
+
+
           
           
