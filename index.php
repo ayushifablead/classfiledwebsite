@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-<section class="breadcrumb-section set-bg" data-setbg="https://themewagon.github.io/classimax/images/home/hero.jpg">
+<section class="breadcrumb-section set-bg" data-setbg="img/categories/banner.png">
         <div class="container-fluid">
             <div class="row">
                 <div class="col-lg-12 ">
@@ -10,8 +10,8 @@
                             everyday in local communities around the world</p>
                             <!-- <p>Free Pickup and Delivery Available</p> -->
                              <div class="d-flex justify-content-center">
-                            <button type="submit" class="view_button_dasboard_page mx-2" onclick="window.location.href='about-us.php'">About Us</button>
-                            <button type="submit" class="view_button_dasboard_page mx-2 " onclick="window.location.href='contact.php'">Contact Us</button>
+                            <button type="submit" class="view_button_banner_image_page mx-2" onclick="window.location.href='about-us.php'">About Us</button>
+                            <button type="submit" class="view_button_banner_image_page mx-2 " onclick="window.location.href='contact.php'">Contact Us</button>
 </div>
                         </div>
                     </div>
