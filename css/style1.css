@@ -70,3 +70,15 @@
 
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
   }
+  /* .featured__item__pic__hover{
+    position: absolute;
+    left: 180px!important;
+    top: 10px !important;
+    width: 100%;
+     text-align: left;
+  } */
+  .featured__item:hover .featured__item__pic .featured__item__pic__hover{
+    top: 10px;
+    text-align: right!important;
+    left: -9px !important;
+  }
