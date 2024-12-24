@@ -132,3 +132,8 @@
 /* .banner-headding, .banner-headding a, .banner-headding span{
     color: #3f3d59 !important;
 } */
+
+.for_blog.feat_property:hover{
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
