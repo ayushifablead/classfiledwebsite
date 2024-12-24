@@ -141,7 +141,7 @@
                 <div class="col-lg-2 ">
                     <div class="header__logo">
                         <!-- <a href="./index.php"><img src="img/logo.png" alt=""></a> -->
-                         <h4>Classified</h4>
+                         <h4 onclick="window.location.href='index.php'">Classified</h4>
                     </div>
                 </div>
                 <div class="col-lg-2 mt-3">
@@ -168,7 +168,7 @@
                 <div class="col-lg-5 mt-3">
                     <div class="hero__search">
                         <div class="hero__search__form">
-                            <form action="#" class="hero__search__form">
+                            <form action="#" class="hero__search__form1">
                                 <div class="hero__search__categories">
                                     Categories<i class="fa fa-angle-down" aria-hidden="true"></i>
 

@@ -9,7 +9,10 @@
                             <p>Join the millions who buy and sell from each other<br />
                             everyday in local communities around the world</p>
                             <!-- <p>Free Pickup and Delivery Available</p> -->
-                            <a href="#" class="primary-btn">LEARN MORE</a>
+                             <div class="d-flex justify-content-center">
+                            <button type="submit" class="view_button_dasboard_page mx-2" onclick="window.location.href='about-us.php'">About Us</button>
+                            <button type="submit" class="view_button_dasboard_page mx-2 " onclick="window.location.href='contact.php'">Contact </button>
+</div>
                         </div>
                     </div>
                 </div>
@@ -61,8 +64,9 @@
         <div class="container">
         <div class="row">
                 <div class="col-lg-12">
-                    <div class="section-title">
+                <div class="d-flex justify-content-between section-title">
                         <h2>Trending</h2>
+                        <button type="submit" class="view_button_dasboard_page"    onclick="window.location.href='shop-grid.php'">View Trending</button>
                     </div>
                   
                 </div>
@@ -103,8 +107,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="section-title">
+                    <div class="d-flex justify-content-between section-title">
                         <h2>Featured Product</h2>
+                        <button type="submit" class="view_button_dasboard_page"    onclick="window.location.href='shop-grid.php'">View Ads</button>
                     </div>
                   
                 </div>
@@ -448,7 +453,7 @@
     <!-- Latest Product Section End -->
 
     <!-- Blog Section Begin -->
-    <section class="from-blog spad">
+    <!-- <section class="from-blog spad">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -588,7 +593,7 @@
               
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Blog Section End -->
 
     <!-- Faqs Section Begin -->
@@ -596,8 +601,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
-                    <div class="section-title from-blog__title">
+                <div class="d-flex justify-content-between section-title">
                         <h2>FAQs</h2>
+                        <button type="submit" class="view_button_dasboard_page"    onclick="window.location.href='faqs.php'">View FAQs</button>
                     </div>
                 </div>
             </div>

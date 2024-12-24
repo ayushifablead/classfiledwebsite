@@ -22,12 +22,12 @@
                     <div class="footer__widget">
                         <h6>Useful Links</h6>
                         <ul>
-                            <li><a href="#">About Us</a></li>
-                            <li><a href="#">Shop</a></li>
-                            <li><a href="#">Category</a></li>
-                            <li><a href="#">Blog</a></li>
-                            <li><a href="#">FAQs</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="about-us.php">About Us</a></li>
+                            <li><a href="shop-grid.php">Ads</a></li>
+                            <li><a href="category.php">Category</a></li>
+                            <li><a href="blog.php">Blog</a></li>
+                            <li><a href="faqs.php">FAQs</a></li>
+                            <li><a href="contact.php">Contact</a></li>
                         </ul>
                      
                     </div>
