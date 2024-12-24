@@ -151,7 +151,7 @@
 
                             <span>Location</span>
                         </div>
-                        <ul>
+                        <ul style="display:none;">
                             <li><input type="text" class="form-control" placeholder="Search"></li>
                             <li><a href="#">India</a></li>
                             <li><a href="#">Ahmedabad</a></li>
@@ -163,16 +163,27 @@
 
                         
                     </div>
+                    
                 </div>
-                <div class="col-lg-4 mt-3">
+                <div class="col-lg-5 mt-3">
                     <div class="hero__search">
                         <div class="hero__search__form">
-                            <form action="#">
+                            <form action="#" class="hero__search__form">
                                 <div class="hero__search__categories">
                                     Categories<i class="fa fa-angle-down" aria-hidden="true"></i>
 
                                     <!-- <span class="arrow_carrot-down"></span> -->
                                 </div>
+                                <ul style="display:none;">
+                            <!-- <li><input type="text" class="form-control" placeholder="Search"></li> -->
+                            <li><a href="#">India</a></li>
+                            <li><a href="#">Ahmedabad</a></li>
+                            <li><a href="#">Bangalore</a></li>
+                            <li><a href="#">Chandigarh</a></li>
+                            <li><a href="#">Chennai</a></li>
+                          
+                        </ul>
+
                                 <input type="text" placeholder="Search">
                                 <button type="submit" class="site-btn"><i class="fa fa-search" aria-hidden="true"></i>                                </button>
                             </form>
@@ -180,12 +191,12 @@
                       
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-3">
                     <nav class="header__menu float-lg-right">
                         <ul>
                             <li class=""><a href="./index.php">Home</a></li>
                             <!-- <li class=""><a href="./about-us.php">About Us</a></li> -->
-                            <li><a href="./shop-grid.php">Product</a></li>
+                            <li><a href="./shop-grid.php">Ads</a></li>
                             <!-- <li><a href="#">Pages</a>
                                 <ul class="header__menu__dropdown">
                                     <li><a href="./shop-details.php">Shop Details</a></li>
@@ -194,7 +205,7 @@
                                     <li><a href="./blog-details.php">Blog Details</a></li>
                                 </ul>
                             </li> -->
-                            <li><a href="./category.php">Category</a></li>
+                            <li><a href="./category.php">Categories</a></li>
                           <li><a href="login.php">Login</a></li>
                              <!--  <li><a href="./faqs.php">Faqs</a></li>
                             <li><a href="./contact.php">Contact</a></li> -->
