@@ -258,7 +258,7 @@
                                     </div>
                                 </div>
                             
-                       <div class="text-center">
+                       <div class="text-center mb-5">
                          <div class="product__pagination">
                             <a href="#">1</a>
                             <a href="#">2</a>
