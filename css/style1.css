@@ -333,5 +333,18 @@ i, span, a {
     }
 }
 @media only screen and (max-width: 600px) {
-    
+    .humberger__menu__widget .hero__categories__all i, .humberger__menu__widget .hero__categories__all span{
+        color:#000;
+    }
+    .humberger__menu__widget .hero__categories__all{
+        border: 2px solid #000;
+    }
+    .form.hero__search__form1, .hero__search__form form input {
+        border: 2px solid #000;
+        cursor: pointer;
+        border-radius: 10px;
+    }
+    .hero__categories{
+        margin-bottom: 10px;
+    }
 }
