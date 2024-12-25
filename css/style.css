@@ -2682,7 +2682,7 @@ img.cover.img-whp.w-100 {
 }
 
 .blog__details__text p {
-	font-size: 18px;
+	font-size: 16px;
 	line-height: 30px;
 }
 
@@ -3889,7 +3889,7 @@ footer.footer.spad p{
 		content: '';
 		width: 3px;
 		height: 15px;
-		background-color: #7fad39;
+		background-color: #3f3d59;
 		border-top-right-radius: 5px;
 		border-bottom-right-radius: 5px;
 		top: 50%;
