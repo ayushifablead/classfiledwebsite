@@ -22,7 +22,12 @@
 <!-- Product Section Begin -->
 <section class="category">
     <div class="container">
-        <div class="categories_top_bar d-flex align-items-center justify-content-between pb-30">
+        <div class="row">
+   
+    <div class="col-lg-12">
+
+    
+        <div class="caories_top_bar d-flex align-items-center justify-content-between pb-30">
             <div class="categories_story mt-5 mb-2">
                 <select style="display: none;">
                     <option value="0">Story by Acceding</option>
@@ -275,7 +280,8 @@
             </div>
         </div>
 
-
+        </div>
+        </div>
 
     </div>
 
