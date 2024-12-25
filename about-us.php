@@ -46,7 +46,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-4 my-2">
                     <div class="single_services d-flex mt-30">
                        
                         <div class="services_content card p-4">
@@ -56,7 +56,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-4 my-2">
                     <div class="single_services d-flex mt-30">
                         
                         <div class="services_content card p-4">
@@ -66,7 +66,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-4 my-2">
                     <div class="single_services d-flex mt-30">
                         <div class="services_content card p-4">
                             <h4 class="title"><a href="#">Meet safe location</a></h4>
@@ -77,7 +77,7 @@
                 </div>
                 </div>
                 <div class="row mt-5 pb-5">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-4 my-2">
                     <div class="single_services d-flex mt-30">
                         <div class="services_content card p-4 box-shadow">
                             <h4 class="title"><a href="#">Pay after collect</a></h4>
@@ -86,16 +86,16 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-4 my-2">
                     <div class="single_services d-flex mt-30">
                         <div class="services_content card p-4 box-shadow">
-                            <h4 class="title"><a href="#">24/7 Support</a></h4>
+                            <h4 class="title"><a href="#">24/7 Support System</a></h4>
                             <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed</p>
                             <a class="more" href="#">Read More <i class="fa fa-angle-right"></i></a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6">
+                <div class="col-lg-4 col-md-4 my-2">
                     <div class="single_services d-flex mt-30">
                         <div class="services_content card p-4 box-shadow">
                             <h4 class="title"><a href="#">Payment Verified</a></h4>

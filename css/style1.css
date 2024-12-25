@@ -76,8 +76,8 @@
   }
  
   .featured__item:hover .featured__item__pic .featured__item__pic__hover{
-    top: 10px;
-    text-align: right!important;
+    top: 7px;
+    text-align: right !important;
     left: -9px !important;
   }
   .product_select .nice-select {
