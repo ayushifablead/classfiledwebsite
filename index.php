@@ -740,7 +740,7 @@
     border: none;
     background: none;
     outline: none;
-    height: 56px;
+    height: auto;
   }
 
   .accordion button:hover,

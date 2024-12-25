@@ -316,7 +316,7 @@
                    
                 </div>
 
-                <div class="quick-filters mb-4 mt-2">
+                <div class="d-flex quick-filters mb-4 mt-2">
       <button class="btn btn-outline-primary active">All</button>
       <button class="btn btn-outline-primary">Meeting</button>
       <button class="btn btn-outline-primary">Unread</button>

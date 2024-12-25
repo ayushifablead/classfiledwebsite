@@ -190,7 +190,7 @@
                          <h4 onclick="window.location.href='index.php'">Classified</h4>
                     </div>
                 </div>
-                <div class="col-lg-2 mt-3">
+                <div class="col-lg-2 mt-3  responsive-menu-header-mobail">
                 <div class="hero__categories">
                         <div class="hero__categories__all">
                         <i class="fa fa-map-marker" aria-hidden="true"></i>
@@ -211,7 +211,7 @@
                     </div>
                     
                 </div>
-                <div class="col-lg-5 mt-3">
+                <div class="col-lg-5 mt-3 responsive-menu-header">
                     <div class="hero__search">
                         <div class="hero__search__form">
                             <form action="#" class="hero__search__form1">
@@ -221,7 +221,7 @@
                                     <!-- <span class="arrow_carrot-down"></span> -->
                                 </div>
                                 <ul style="display:none;">
-                            <!-- <li><input type="text" class="form-control" placeholder="Search"></li> -->
+                          
                             <li><a href="#">India</a></li>
                             <li><a href="#">Ahmedabad</a></li>
                             <li><a href="#">Bangalore</a></li>
