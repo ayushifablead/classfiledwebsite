@@ -314,7 +314,7 @@
                                 </label>
                             </div>
                         </div> -->
-                   <div class="sidebar__item">
+                   <!-- <div class="sidebar__item">
                             <h4>Popular Size</h4>
                             <div class="sidebar__item__size">
                                 <label for="large">
@@ -340,7 +340,31 @@
                                     <input type="radio" id="tiny">
                                 </label>
                             </div>
-                        </div> 
+                        </div>  -->
+                        <div class="sidebar__item">
+                            <div class="sidebar_discount">
+                                <h4>Top Deals</h4>
+                            </div>
+                            <div class="discount_content">
+                                <ul class="discount_radio">
+                                    <li>
+                                        <input type="radio" checked="" name="radio" id="radio1">
+                                        <label for="radio1"></label> <span>Flat 10% Off</span>
+                                    </li>
+
+                                    <li>
+                                        <input type="radio" name="radio" id="radio2">
+                                        <label for="radio2"></label> <span>Flat 20% Off</span>
+                                    </li>
+
+                                    <li>
+                                        <input type="radio" name="radio" id="radio3">
+                                        <label for="radio3"></label> <span>Flat 50% Off</span>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        
                         <div class="sidebar__item">
                             <div class="latest-product__text">
                                 <h4>Latest Products</h4>
