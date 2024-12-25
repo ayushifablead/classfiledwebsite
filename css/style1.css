@@ -56,7 +56,7 @@
   }
   
   .featured__item {
-    padding: 15px;
+    padding: 10px;
     background-color: #fff;
     border-radius: 5px;
     margin-bottom: 30px!important;
@@ -94,7 +94,7 @@
 
 /* Container styling for the image */
 .featured__item__pic {
-    height: 200px;
+    height: 150px;
     background-size: cover;
     background-position: center;
     position: relative;
@@ -347,4 +347,31 @@ i, span, a {
     .hero__categories{
         margin-bottom: 10px;
     }
+}
+.sidebar_categories {
+    background-color: #fff;
+    border-radius: 10px;
+}
+.sidebar_title {
+    border-bottom: 1px solid rgba(210, 210, 210, 0.4);
+    padding: 15px 0;
+    position: relative;
+}
+
+.sidebar_title .title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #3f3d59;
+}
+.sidebar_categories_content .card-header{
+    background-color: #fff !important;
+    border-bottom: 0px !important;
+}
+.sidebar_categories_content .accordion{
+    box-shadow: none!important;
+    padding: 0px !important;
+}
+.fastfood {
+    padding-left: 5px;
+    padding-right: 5px;
 }
