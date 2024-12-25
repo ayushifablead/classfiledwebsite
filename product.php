@@ -314,7 +314,7 @@
                                 </label>
                             </div>
                         </div> -->
-                        <!-- <div class="sidebar__item">
+                   <div class="sidebar__item">
                             <h4>Popular Size</h4>
                             <div class="sidebar__item__size">
                                 <label for="large">
@@ -340,7 +340,7 @@
                                     <input type="radio" id="tiny">
                                 </label>
                             </div>
-                        </div> -->
+                        </div> 
                         <div class="sidebar__item">
                             <div class="latest-product__text">
                                 <h4>Latest Products</h4>
@@ -348,61 +348,62 @@
                                     <div class="latest-prdouct__slider__item">
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="img/latest-product/lp-1.jpg" alt="">
+                                                <img src="img/categories/laptop2.png" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
-                                                <h6>Palak</h6>
-                                                <span>$30.00</span>
+                                                <h6>Leptop</h6>
+                                                <span>$300.00</span>
                                             </div>
                                         </a>
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="img/latest-product/lp-2.jpg" alt="">
+                                                <img src="img/categories/products-1.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
-                                                <h6>Capsicum </h6>
-                                                <span>$30.00</span>
+                                                <h6>Mackbook </h6>
+                                                <span>$450.00</span>
                                             </div>
                                         </a>
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="img/latest-product/lp-3.jpg" alt="">
+                                                <img src="img/categories/mobile1.png" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
-                                                <h6>Chicken</h6>
-                                                <span>$30.00</span>
+                                                <h6>Mobile</h6>
+                                                <span>$350.00</span>
                                             </div>
                                         </a>
                                     </div>
                                     <div class="latest-prdouct__slider__item">
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="img/latest-product/lp-1.jpg" alt="">
+                                                <img src="img/categories/laptop2.png" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
-                                                <h6>Palak</h6>
-                                                <span>$30.00</span>
+                                                <h6>Leptop</h6>
+                                                <span>$300.00</span>
                                             </div>
                                         </a>
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="img/latest-product/lp-2.jpg" alt="">
+                                                <img src="img/categories/products-1.jpg" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
-                                                <h6>Capsicum</h6>
-                                                <span>$30.00</span>
+                                                <h6>Mackbook </h6>
+                                                <span>$450.00</span>
                                             </div>
                                         </a>
                                         <a href="#" class="latest-product__item">
                                             <div class="latest-product__item__pic">
-                                                <img src="img/latest-product/lp-3.jpg" alt="">
+                                                <img src="img/categories/mobile1.png" alt="">
                                             </div>
                                             <div class="latest-product__item__text">
-                                                <h6>Chicken</h6>
-                                                <span>$30.00</span>
+                                                <h6>Mobile</h6>
+                                                <span>$350.00</span>
                                             </div>
                                         </a>
                                     </div>
+
                                 </div>
                             </div>
                         </div>
@@ -477,7 +478,7 @@
                                         </div>
                                 </div> -->
 
-                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                    <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/car1.png">
                                            
@@ -501,7 +502,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                    <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/laptop2.png">
                                            
@@ -527,7 +528,7 @@
                                     </div>
 
 
-                                        <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                          <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/3.png">
                                            
@@ -580,7 +581,7 @@
                                         </div>
                                     </div> -->
 
-                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                    <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/car1.png">
                                            
@@ -604,7 +605,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                    <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/laptop2.png">
                                            
@@ -630,7 +631,7 @@
                                     </div>
 
 
-                                        <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/3.png">
                                            
@@ -682,7 +683,7 @@
                                         </div>
                                     </div> -->
 
-                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                    <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/car1.png">
                                            
@@ -706,7 +707,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                    <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/laptop2.png">
                                            
@@ -732,7 +733,7 @@
                                     </div>
 
 
-                                        <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/3.png">
                                            

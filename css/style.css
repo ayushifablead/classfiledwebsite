@@ -3079,7 +3079,7 @@ footer.footer.spad p{
 
 @media only screen and (min-width: 1200px) {
 	.container {
-		max-width: 1240px;
+		max-width: 1170px;
 	}
 }
 
@@ -3121,6 +3121,10 @@ footer.footer.spad p{
 	.hero__search__form {
 		width: 485px;
 	}
+	.hero__categories__all
+{
+	display: none;
+}
 	.categories__slider.owl-carousel .owl-nav button {
 		left: -20px;
 	}
@@ -4307,9 +4311,4 @@ footer.footer.spad p{
 		font-size: 24px;
 		margin-bottom: 10px;
 		display: inline-block;
-	}
-
-	div#kt_ecommerce_products_table_wrapper {
-		overflow-x: scroll;
-		width: auto;
 	}
