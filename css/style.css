@@ -4308,3 +4308,8 @@ footer.footer.spad p{
 		margin-bottom: 10px;
 		display: inline-block;
 	}
+
+	div#kt_ecommerce_products_table_wrapper {
+		overflow-x: scroll;
+		width: auto;
+	}

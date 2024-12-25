@@ -1,24 +1,24 @@
 <?php include 'header.php'; ?>
 <section class="breadcrumb-section set-bg" data-setbg="img/categories/banner.png">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-12 ">
-                <div class="hero__item set-bg" >
-                        <div class="hero__text m-auto">
-                            <h1>Buy & Sell Near You</h1>
-                            <p>Join the millions who buy and sell from each other<br />
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12 ">
+                <div class="hero__item set-bg">
+                    <div class="hero__text m-auto">
+                        <h1>Buy & Sell Near You</h1>
+                        <p>Join the millions who buy and sell from each other<br />
                             everyday in local communities around the world</p>
-                            <!-- <p>Free Pickup and Delivery Available</p> -->
-                             <div class="d-flex justify-content-center">
+                        <!-- <p>Free Pickup and Delivery Available</p> -->
+                        <div class="d-flex justify-content-center">
                             <button type="submit" class="view_button_banner_image_page mx-2" onclick="window.location.href='about-us.php'">About Us</button>
                             <button type="submit" class="view_button_banner_image_page mx-2 " onclick="window.location.href='contact.php'">Contact Us</button>
-</div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>  
+    </div>
+</section>
 
 <!-- <section class="hero">
         <div class="container">
@@ -59,178 +59,211 @@
         </div>
 </section> -->
 
-    <!-- Categories Section Begin -->
-    <section class="categories">
-        <div class="container">
+<!-- Categories Section Begin -->
+<section class="categories">
+    <div class="container">
         <div class="row">
-                <div class="col-lg-12">
+            <div class="col-lg-12">
                 <div class="d-flex justify-content-between section-title">
-                        <h2>Trending</h2>
-                        <button type="submit" class="view_button_dasboard_page"    onclick="window.location.href='category.php'">View Trending</button>
-                    </div>
-                  
+                    <h2>Trending</h2>
+                    <button type="submit" class="view_button_dasboard_page" onclick="window.location.href='category.php'">View Trending</button>
                 </div>
+
             </div>
-            <div class="row">
-                <div class="categories__slider owl-carousel">
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="img/categories/products-1.jpg">
-                            <h5><a href="category.php">Macbook </a></h5>
-                        </div>
+        </div>
+        <div class="row">
+            <div class="categories__slider owl-carousel">
+                <div class="col-lg-3">
+                    <div class="categories__item set-bg" data-setbg="img/categories/products-1.jpg">
+                        <h5><a href="category.php">Macbook </a></h5>
                     </div>
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="img/categories/products-2.jpg">
-                            <h5><a href="category.php">Study Table</a></h5>
-                        </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="categories__item set-bg" data-setbg="img/categories/products-2.jpg">
+                        <h5><a href="category.php">Study Table</a></h5>
                     </div>
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="img/categories/products-3.jpg">
-                            <h5><a href="category.php">11inch Macbook</a></h5>
-                        </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="categories__item set-bg" data-setbg="img/categories/products-3.jpg">
+                        <h5><a href="category.php">11inch Macbook</a></h5>
                     </div>
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="img/categories/image-1.jpg">
-                            <h5><a href="category.php">Table Combo</a></h5>
-                        </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="categories__item set-bg" data-setbg="img/categories/image-1.jpg">
+                        <h5><a href="category.php">Table Combo</a></h5>
                     </div>
-                    <div class="col-lg-3">
-                        <div class="categories__item set-bg" data-setbg="img/categories/products-1.jpg">
-                            <h5><a href="category.php">Macbook </a></h5>
-                        </div>
+                </div>
+                <div class="col-lg-3">
+                    <div class="categories__item set-bg" data-setbg="img/categories/products-1.jpg">
+                        <h5><a href="category.php">Macbook </a></h5>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-   
-    <section class="featured spad">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="d-flex justify-content-between section-title">
-                        <h2>Related Product</h2>
-                        <button type="submit" class="view_button_dasboard_page"   onclick="window.location.href='product.php'">View Product</button>
-                    </div>
-                  
-                </div>
-            </div>
-            <div class="row featured__filter">
-                <div class="col-lg-3 col-md-4 col-sm-6 mix oranges fresh-meat">
-                
-                    <div class="featured__item">
-                        <div class="featured__item__pic set-bg" data-setbg="img/categories/1.png">
-                            <ul class="featured__item__pic__hover">
-                                <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>                                </a></li>
-                               
-                            </ul>
-                        </div>
-                        <div class="featured__item__text">
-                            <h6><a href="#">Etiam sit amet quam lorem</a></h6>
-                            <h5>$30.00</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
-                    <div class="featured__item">
-                        <div class="featured__item__pic set-bg" data-setbg="img/categories/2.png">
-                            <ul class="featured__item__pic__hover">
-                                <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
-                            </ul>
-                        </div>
-                        <div class="featured__item__text">
-                            <h6><a href="#">Etiam sit amet quam lorem</a></h6>
-                            <h5>$123.00</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fresh-meat">
-                    <div class="featured__item">
-                        <div class="featured__item__pic set-bg" data-setbg="img/categories/3.png">
-                            <ul class="featured__item__pic__hover">
-                                <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
-                            </ul>
-                        </div>
-                        <div class="featured__item__text">
-                            <h6><a href="#">Etiam sit amet quam lorem</a></h6>
-                            <h5>$330.00</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mix fastfood oranges">
-                    <div class="featured__item">
-                        <div class="featured__item__pic set-bg" data-setbg="img/categories/image-1.jpg">
-                            <ul class="featured__item__pic__hover">
-                                <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
-                            </ul>
-                        </div>
-                        <div class="featured__item__text">
-                            <h6><a href="#">Etiam sit amet quam lorem</a></h6>
-                            <h5>$30.00</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mix fresh-meat vegetables">
-                    <div class="featured__item">
-                        <div class="featured__item__pic set-bg" data-setbg="img/categories/laptop2.png">
-                            <ul class="featured__item__pic__hover">
-                                <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
-                            </ul>
-                        </div>
-                        <div class="featured__item__text">
-                            <h6><a href="#">Etiam sit amet quam lorem</a></h6>
-                            <h5>$20.00</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mix oranges fastfood">
-                    <div class="featured__item">
-                        <div class="featured__item__pic set-bg" data-setbg="img/categories/car1.png">
-                            <ul class="featured__item__pic__hover">
-                                <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
-                            </ul>
-                        </div>
-                        <div class="featured__item__text">
-                            <h6><a href="#">Etiam sit amet quam lorem</a></h6>
-                            <h5>$340.00</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mix fresh-meat vegetables">
-                    <div class="featured__item">
-                        <div class="featured__item__pic set-bg" data-setbg="img/categories/4.png">
-                            <ul class="featured__item__pic__hover">
-                                <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
-                            </ul>
-                        </div>
-                        <div class="featured__item__text">
-                            <h6><a href="#">Etiam sit amet quam lorem</a></h6>
-                            <h5>$39.00</h5>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 mix fastfood vegetables">
-                    <div class="featured__item">
-                        <div class="featured__item__pic set-bg" data-setbg="img/categories/mobile1.png">
-                            <ul class="featured__item__pic__hover">
-                                <li><a href="shop-details.php"><i class="fa fa-eye" aria-hidden="true"></i>  
-                            </ul>
-                        </div>
-                        <div class="featured__item__text">
-                            <h6><a href="#">Etiam sit amet quam lorem</a></h6>
-                            <h5>$30.00</h5>
-                        </div>
-                    </div>
-                </div>
-                
+    </div>
+</section>
 
+<section class="featured spad">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="d-flex justify-content-between section-title">
+                    <h2>Related Product</h2>
+                    <button type="submit" class="view_button_dasboard_page" onclick="window.location.href='product.php'">View Product</button>
+                </div>
 
             </div>
         </div>
-    </section>
-    <!-- Featured Section End -->
+        <div id="category-container" class="row grid-view justify-content-center">
 
-    <!-- Banner Begin -->
-    <!-- <div class="banner">
+            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                <div class="featured__item card">
+                    <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
+
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text category">
+                        <small class="mb-2"><a href="product.php">Table Combo</a></small>
+                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
+                        <small class="text-muted">2 Days ago</small>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                <div class="featured__item card">
+                    <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table.jpg">
+
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text category">
+                        <small class="mb-2">Macbook </small>
+                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
+
+                        <small class="text-muted">1 Days ago</small>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                <div class="featured__item card">
+                    <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table-1.jpg">
+
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text category">
+                        <small class="mb-2">Stady Table</small>
+                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
+                        <small class="text-muted">4 Days ago</small>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                <div class="featured__item card">
+                    <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/6.jpg">
+
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text category"> <small class="mb-2">11inch Macbook </small>
+                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
+
+                        <small class="text-muted">4 Days ago</small>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                <div class="featured__item card">
+                    <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/2.png">
+
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text category">
+                        <small class="mb-2">Lorem Ipsum</small>
+                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
+                        <small class="text-muted">2 Days ago</small>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                <div class="featured__item card">
+                    <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table.jpg">
+
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text category">
+                        <small class="mb-2">Computer </small>
+                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
+                        <small class="text-muted">1 Days ago</small>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                <div class="featured__item card">
+                    <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/table-1.jpg">
+
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text category">
+                        <small class="mb-2">Table Combo</small>
+                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
+                        <small class="text-muted">4 Days ago</small>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                <div class="featured__item card">
+                    <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/6.jpg">
+
+                        <ul class="featured__item__pic__hover">
+                            <li><a href="product.php"><i class="fa fa-eye" aria-hidden="true"></i>
+                        </ul>
+                    </div>
+                    <div class="featured__item__text category"> <small class="mb-2">Table Combo</small>
+                        <h6 class="mt-2"><a href="product.php">Etiam sit amet quam lorem</a></h6>
+                        <small class="text-muted">4 Days ago</small>
+
+                    </div>
+                </div>
+            </div>
+
+
+      
+
+         
+        </div>
+    </div>
+</section>
+<!-- Featured Section End -->
+
+<!-- Banner Begin -->
+<!-- <div class="banner">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-6">
@@ -246,10 +279,10 @@
             </div>
         </div>
     </div> -->
-    <!-- Banner End -->
+<!-- Banner End -->
 
-    <!-- Latest Product Section Begin -->
-    <!-- <section class="latest-product spad">
+<!-- Latest Product Section Begin -->
+<!-- <section class="latest-product spad">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-6">
@@ -450,10 +483,10 @@
             </div>
         </div>
     </section> -->
-    <!-- Latest Product Section End -->
+<!-- Latest Product Section End -->
 
-    <!-- Blog Section Begin -->
-    <!-- <section class="from-blog spad">
+<!-- Blog Section Begin -->
+<!-- <section class="from-blog spad">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -594,63 +627,217 @@
             </div>
         </div>
     </section> -->
-    <!-- Blog Section End -->
+<!-- Blog Section End -->
 
-    <!-- Faqs Section Begin -->
-    <section class="from-faqs">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
+<!-- Faqs Section Begin -->
+<section class="from-faqs">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
                 <div class="d-flex justify-content-between section-title">
-                        <h2>FAQs</h2>
-                        <button type="submit" class="view_button_dasboard_page"    onclick="window.location.href='faqs.php'">View FAQs</button>
-                    </div>
+                    <h2>FAQs</h2>
+                    <button type="submit" class="view_button_dasboard_page" onclick="window.location.href='faqs.php'">View FAQs</button>
                 </div>
-            </div>
-            <div class="row" style="justify-content: center;">
-                <div class="col-lg-12 col-md-12 col-sm-12">
-                                <div class="accordion">
-                       
-                        <div class="accordion-content accordion-content-odd">
-                            <header>
-                                <h5 class="accordion-title">
-                                    What is Lorem ipsum dolor sit amet?
-                                </h5>
-                                <i class="fa-solid fa-plus"></i>
-                            </header>
-                            <p class="accordion-content-description">
-                            Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat
-                            </p>
-                        </div>
-                        <div class="accordion-content accordion-content-even">
-                            <header>
-                                <h5 class="accordion-title">
-                                    Which is the Lorem ipsum dolor sit amet?
-                                </h5>
-                                <i class="fa-solid fa-plus"></i>
-                            </header>
-                            <p class="accordion-content-description"> 
-                            Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat
-                            </p>
-                        </div>
-                        <div class="accordion-content accordion-content-odd">
-                            <header>
-                                <h5 class="accordion-title">
-                                    What Lorem ipsum dolor sit amet?
-                                </h5>
-                                <i class="fa-solid fa-plus"></i>
-                            </header>
-                            <p class="accordion-content-description"> 
-                            Sed quia non numquam modi tempora indunt ut labore et dolore magnam aliquam quaerat
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                
-               
             </div>
         </div>
-    </section>
-    <!-- Faqs Section End -->
+        <div class="row" style="justify-content: center;">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="accordion">
+                    <div class="accordion-item">
+                        <button id="accordion-button-1" aria-expanded="false">
+                            <span class="accordion-title">Why is the moon sometimes out during the day?</span>
+                            <span class="icon" aria-hidden="true"></span>
+                        </button>
+                        <div class="accordion-content">
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut.
+                                Ut tortor pretium viverra suspendisse potenti.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button id="accordion-button-2" aria-expanded="false">
+                            <span class="accordion-title">Why is the sky blue?</span>
+                            <span class="icon" aria-hidden="true"></span>
+                        </button>
+                        <div class="accordion-content">
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut.
+                                Ut tortor pretium viverra suspendisse potenti.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button id="accordion-button-3" aria-expanded="false">
+                            <span class="accordion-title">Will we ever discover aliens?</span>
+                            <span class="icon" aria-hidden="true"></span>
+                        </button>
+                        <div class="accordion-content">
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut.
+                                Ut tortor pretium viverra suspendisse potenti.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button id="accordion-button-4" aria-expanded="false">
+                            <span class="accordion-title">How much does the Earth weigh?</span>
+                            <span class="icon" aria-hidden="true"></span>
+                        </button>
+                        <div class="accordion-content">
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut.
+                                Ut tortor pretium viverra suspendisse potenti.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="accordion-item">
+                        <button id="accordion-button-5" aria-expanded="false">
+                            <span class="accordion-title">How do airplanes stay up?</span>
+                            <span class="icon" aria-hidden="true"></span>
+                        </button>
+                        <div class="accordion-content">
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Elementum sagittis vitae et leo duis ut.
+                                Ut tortor pretium viverra suspendisse potenti.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
-    <?php include 'footer.php'; ?>
+
+        </div>
+    </div>
+</section>
+<!-- Faqs Section End -->
+
+<?php include 'footer.php'; ?>
+
+<style>
+  .accordion .accordion-item {
+    border-bottom: 1px solid #e5e5e5;
+  }
+
+  .accordion .accordion-item button[aria-expanded='true'] {
+    border-bottom: 1px solid white;
+  }
+
+  .accordion button {
+    position: relative;
+    display: block;
+    text-align: left;
+    width: 100%;
+    padding: 1em 19px;
+    color: #7288a2;
+    font-size: 1.15rem;
+    font-weight: 400;
+    border: none;
+    background: none;
+    outline: none;
+    height: 56px;
+  }
+
+  .accordion button:hover,
+  .accordion button:focus {
+    cursor: pointer;
+    color: white;
+  }
+
+  .accordion button:hover::after,
+  .accordion button:focus::after {
+    cursor: pointer;
+    color: white;
+    border: 1px solid white;
+  }
+
+  /* .accordion button .accordion-title {
+  padding: 1em 1.5em 1em 0;
+} */
+
+  .accordion button .icon {
+    display: inline-block;
+    position: absolute;
+    top: 18px;
+    right: 0;
+    width: 22px;
+    height: 22px;
+    border: 1px solid;
+    border-radius: 22px;
+  }
+
+  .accordion button .icon::before {
+    display: block;
+    position: absolute;
+    content: '';
+    top: 9px;
+    left: 5px;
+    width: 10px;
+    height: 2px;
+    background: currentColor;
+  }
+
+  .accordion button .icon::after {
+    display: block;
+    position: absolute;
+    content: '';
+    top: 5px;
+    left: 9px;
+    width: 2px;
+    height: 10px;
+    background: currentColor;
+  }
+
+  .accordion button[aria-expanded='true'] {
+    color: white;
+  }
+
+  .accordion button[aria-expanded='true'] .icon::after {
+    width: 0;
+  }
+
+  .accordion button[aria-expanded='true']+.accordion-content {
+    opacity: 1;
+    max-height: 9em;
+    transition: all 200ms linear;
+    will-change: opacity, max-height;
+  }
+
+  .accordion .accordion-content {
+    opacity: 0;
+    max-height: 0;
+    overflow: hidden;
+    transition: opacity 200ms linear, max-height 200ms linear;
+    will-change: opacity, max-height;
+  }
+
+  .accordion .accordion-content p {
+    font-size: 1rem;
+    font-weight: 300;
+    margin: 2em 15px;
+    color: white;
+  }
+</style>
+
+<script>
+  const items = document.querySelectorAll('.accordion button');
+
+  function toggleAccordion() {
+    const itemToggle = this.getAttribute('aria-expanded');
+
+    for (i = 0; i < items.length; i++) {
+      items[i].setAttribute('aria-expanded', 'false');
+    }
+
+    if (itemToggle == 'false') {
+      this.setAttribute('aria-expanded', 'true');
+    }
+  }
+
+  items.forEach((item) => item.addEventListener('click', toggleAccordion));
+</script>
