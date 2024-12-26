@@ -212,7 +212,7 @@
                     
                 </div>
                 <div class="col-lg-5 mt-3">
-                    <div class="hero__search">
+                    <div class="hero__search d-sm-none d-lg-block">
                         <div class="hero__search__form">
                             <form action="#" class="hero__search__form1">
                                 <div class="hero__search__categories">

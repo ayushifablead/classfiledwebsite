@@ -324,6 +324,9 @@ i, span, a {
 .section-title{
     text-align: left !important;
 }
+.d-lg-block{
+    display: block;
+}
 @media only screen and (max-width: 1023px)  {
     .mbp_blockquote{
         height: 221px;
@@ -333,6 +336,10 @@ i, span, a {
     }
 }
 @media only screen and (max-width: 600px) {
+    .header__top1 .hero__categories__all, .d-sm-none {
+        display: none!important;
+    }
+    
     .humberger__menu__widget .hero__categories__all i, .humberger__menu__widget .hero__categories__all span{
         color:#000;
     }
@@ -374,4 +381,10 @@ i, span, a {
 .fastfood {
     padding-left: 5px;
     padding-right: 5px;
+}
+@media only screen and (max-width: 1023px) {
+    .humberger__open{
+        color: #fff;
+        border: 1px solid #fff;
+    }
 }
