@@ -32,9 +32,9 @@
                 <div class="card-body">
                   <ul class="nav nav-pills flex-column">
                     
-                          <a href="profile.php" class="nav-link active"><i class="fa fa-user"></i> My Account</a>
+                          <a href="profile.php" class="nav-link"><i class="fa fa-user"></i> My Account</a>
                       
-                      <a href="change-password.php" class="nav-link"><i class="fa fa-lock"></i> Change Password</a>
+                      <a href="change-password.php" class="nav-link active"><i class="fa fa-lock"></i> Change Password</a>
                       
                        <a href="https://pharmaxy.org/orders" class="nav-link"><i class="fa fa-list"></i> My Orders
                        
