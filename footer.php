@@ -1,6 +1,6 @@
     <!-- Footer Section Begin -->
     <footer class="footer spad">
-        <div class="container">
+        <div class="container-fiuld px-4">
             <div class="row">
                 <div class="col-lg-3 col-md-6 col-sm-6">
                     <div class="footer__about">
@@ -15,13 +15,13 @@
 </p>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-6 offset-lg-1">
+                <div class="col-lg-3 col-md-6 col-sm-6 ">
                     <div class="footer__widget">
-                        <h6>Useful Links</h6>
+                        <h6>Information</h6>
                         <ul>
                             <li><a href="about-us.php">About Us</a></li>
-                            <li><a href="shop-grid.php">Ads</a></li>
-                            <li><a href="category.php">Category</a></li>
+                            <!-- <li><a href="shop-grid.php">Ads</a></li>
+                            <li><a href="category.php">Category</a></li> -->
                             <li><a href="blog.php">Blog</a></li>
                             <li><a href="faqs.php">FAQs</a></li>
                             <li><a href="contact.php">Contact</a></li>
@@ -29,7 +29,21 @@
                      
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-12">
+                <div class="col-lg-3 col-md-6 col-sm-6 ">
+                    <div class="footer__widget">
+                        <h6>Our Policies</h6>
+                        <ul>
+                            <li><a href="terms-condition.php">Terms & Conditions</a></li>
+                            <li><a href="privacypolicy.php">Privacy Policy</a></li>
+                            <li><a href="category.php">Refaund Policy</a></li>
+                            <!-- <li><a href="blog.php">Blog</a></li>
+                            <li><a href="faqs.php">FAQs</a></li>
+                            <li><a href="contact.php">Contact</a></li> -->
+                        </ul>
+                     
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-12">
                 <div class="footer__widget1">
                 <h6>Location</h6>
                 <ul>

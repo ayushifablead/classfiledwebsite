@@ -764,7 +764,7 @@
     display: inline-block;
     position: absolute;
     top: 18px;
-    right: 0;
+    right: 14px;
     width: 22px;
     height: 22px;
     border: 1px solid;
