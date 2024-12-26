@@ -346,7 +346,50 @@
         <p class="mb-0 message-text">Cod available <br><span>✔ Is it available?</span></p>
       </div>
       <span class="time">15:19</span>&nbsp;&nbsp;
-      <i class="fa fa-ellipsis-v" aria-hidden="true"></i>
+      <div style="position: relative;">
+                                                <!-- Notification Icon -->
+                                                <button id="notificationIcon" style="background: none; border: none; cursor: pointer;">
+                                                    <i class="fa fa-ellipsis-v" aria-hidden="true" style="font-size: 24px;"></i>
+                                                </button>
+
+                                                <!-- Notifications Dropdown -->
+                                                <div
+                                                    id="notificationsDropdown"
+                                                    style="
+                                                position: absolute;
+                                                top: 40px;
+                                                right: 0;
+                                                width: 300px;
+                                                background: #fff;
+                                                border: 1px solid #ddd;
+                                                border-radius: 8px;
+                                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                                                display: none; /* Hidden by default */
+                                                z-index: 1000;
+                                                ">
+
+
+                                                    <button
+                                                        id="closeButton"
+                                                        style="float: right; background: none; border: none; cursor: pointer; color: red;">
+                                                        <i class="fa fa-times" aria-hidden="true"></i>
+                                                    </button>
+
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+                                                        <strong>Delete</strong>
+
+
+                                                    </div>
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+
+                                                        <strong>Block</strong>
+                                                    </div>
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+
+                                                        <strong>Report</strong>
+                                                    </div>
+                                                </div>
+                                            </div>
     </div>
 
     <div class="message-item d-flex">
@@ -356,39 +399,56 @@
         <p class="mb-0 message-text"><span>✔ Hello!!</span></p>
       </div>
       <span class="time">15:19</span>&nbsp;&nbsp;
-      <i class="fa fa-ellipsis-v" aria-hidden="true"></i>
+      <div style="position: relative;">
+                                                <!-- Notification Icon -->
+                                                <button id="notificationIcon1" style="background: none; border: none; cursor: pointer;">
+                                                    <i class="fa fa-ellipsis-v" aria-hidden="true" style="font-size: 24px;"></i>
+                                                </button>
+
+                                                <!-- Notifications Dropdown -->
+                                                <div
+                                                    id="notificationsDropdown1"
+                                                    style="
+                                                position: absolute;
+                                                top: 40px;
+                                                right: 0;
+                                                width: 300px;
+                                                background: #fff;
+                                                border: 1px solid #ddd;
+                                                border-radius: 8px;
+                                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                                                display: none; /* Hidden by default */
+                                                z-index: 1000;
+                                                ">
+
+
+                                                    <button
+                                                        id="closeButton1"
+                                                        style="float: right; background: none; border: none; cursor: pointer; color: red;">
+                                                        <i class="fa fa-times" aria-hidden="true"></i>
+                                                    </button>
+
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+                                                        <strong>Delete</strong>
+
+
+                                                    </div>
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+
+                                                        <strong>Block</strong>
+                                                    </div>
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+
+                                                        <strong>Report</strong>
+                                                    </div>
+                                                </div>
+                                            </div>
     </div>
 
 
   </div>
                 
-                <!-- <ul class="list-unstyled chat-list mt-2 mb-0">
-                   
-                    <li class="clearfix active">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="avatar">
-                        <div class="about">
-                            <div class="name">Aiden Chavez</div>
-                            <div class="status"> <i class="fa fa-circle online"></i> online </div>
-                        </div>
-                    </li>
-                                                      
-                    <li class="clearfix">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar">
-                        <div class="about">
-                            <div class="name">Christian Kelly</div>
-                            <div class="status"> <i class="fa fa-circle offline"></i> left 10 hours ago </div>
-                        </div>
-                       
-                    </li>
-                   
-                    <li class="clearfix">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="avatar">
-                        <div class="about">
-                            <div class="name">Dean Henry</div>
-                            <div class="status"> <i class="fa fa-circle offline"></i> offline since Oct 28 </div>
-                        </div>
-                    </li>
-                </ul> -->
+            
             </div>
              
                 <div class="col-md-8">
@@ -477,3 +537,44 @@
 <?php include 'footer.php'; ?>
 
 
+<script>
+    // Get references to the elements
+    const notificationIcon = document.getElementById('notificationIcon');
+    const notificationsDropdown = document.getElementById('notificationsDropdown');
+    const closeButton = document.getElementById('closeButton');
+
+    // Toggle dropdown visibility when the icon is clicked
+    notificationIcon.addEventListener('click', () => {
+        if (notificationsDropdown.style.display === 'none' || notificationsDropdown.style.display === '') {
+            notificationsDropdown.style.display = 'block'; // Show the dropdown
+        } else {
+            notificationsDropdown.style.display = 'none'; // Hide the dropdown
+        }
+    });
+
+    // Close the dropdown when the close button is clicked
+    closeButton.addEventListener('click', () => {
+        notificationsDropdown.style.display = 'none';
+    });
+</script>
+
+<script>
+    // Get references to the elements
+    const notificationIcon1 = document.getElementById('notificationIcon1');
+    const notificationsDropdown1 = document.getElementById('notificationsDropdown1');
+    const closeButton1 = document.getElementById('closeButton1');
+
+    // Toggle dropdown visibility when the icon is clicked
+    notificationIcon1.addEventListener('click', () => {
+        if (notificationsDropdown1.style.display === 'none' || notificationsDropdown1.style.display === '') {
+            notificationsDropdown1.style.display = 'block'; // Show the dropdown
+        } else {
+            notificationsDropdown1.style.display = 'none'; // Hide the dropdown
+        }
+    });
+
+    // Close the dropdown when the close button is clicked
+    closeButton1.addEventListener('click', () => {
+        notificationsDropdown1.style.display = 'none';
+    });
+</script>
