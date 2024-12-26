@@ -57,38 +57,43 @@
                                 <div class="col-md-6">
                                
                                     <div class="single_form">
-                                        <input type="text" placeholder="First Name">
+                                    <label for="fname">First name</label>
+                                    <input type="text" id="fname" name="fname">
                                         <i class="fa fa-user-o" aria-hidden="true"></i>
                                     </div>
                               
                                 </div>
                                 <div class="col-md-6">
                                     <div class="single_form">
-                                        <input type="text" placeholder="Last Name">
+                                    <label for="fname">Last name</label>
+                                    <input type="text" id="fname" name="fname">
                                         <i class="fa fa-user-o" aria-hidden="true"></i>
                                     </div>
                                 </div>
+                                
                                 <div class="col-md-6">
                                     <div class="single_form">
-                                        <input type="email" placeholder="E-mail Address">
-                                        <i class="fa fa-envelope-o" aria-hidden="true"></i>
+                                    <label for="address">Address 1</label>
+                                        <input type="text" id="address1" name="address1">
+                                        <textarea rows="1" cols="50" placeholder="Enter Your Adderss..."></textarea>
+                                        <i class="fa fa-map-marker" aria-hidden="true"></i>
                                     </div>
-                                </div>
+                                </div>                                
                                 <div class="col-md-6">
                                     <div class="single_form">
                                         <input type="text" placeholder="Phone Number">
                                         <i class="fa fa-phone" aria-hidden="true"></i>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="single_form">
-                                        <input type="password" placeholder="New Password">
+                                        <input type="text" placeholder="City">
                                         <i class="fa fa-key" aria-hidden="true"></i>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="single_form">
-                                        <input type="password" placeholder="Confirm Password">
+                                        <input type="text" placeholder="State">
                                         <i class="fa fa-key" aria-hidden="true"></i>
                                     </div>
                                 </div>

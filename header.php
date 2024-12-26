@@ -190,7 +190,6 @@
                             <h4 onclick="window.location.href='index.php'">Classified</h4>
                         </div>
                     </div>
-<<<<<<< HEAD
                     
                 </div>
                 <div class="col-lg-5 mt-3">
@@ -215,22 +214,6 @@
                                 <input type="text" placeholder="Search">
                                 <button type="submit" class="site-btn"><i class="fa fa-search" aria-hidden="true"></i>                                </button>
                             </form>
-=======
-                    <div class="col-lg-2 mt-3 responsive-menu-header-mobail">
-                        <div class="hero__categories" id="locationDropdown">
-                            <div class="hero__categories__all" onclick="toggleDropdown()">
-                                <i class="fa fa-map-marker" aria-hidden="true"></i>
-                                <span>Location</span>
-                            </div>
-                            <ul style="display: none;">
-                                <li><input type="text" class="form-control" placeholder="Search"></li>
-                                <li><a href="#">India</a></li>
-                                <li><a href="#">Ahmedabad</a></li>
-                                <li><a href="#">Bangalore</a></li>
-                                <li><a href="#">Chandigarh</a></li>
-                                <li><a href="#">Chennai</a></li>
-                            </ul>
->>>>>>> 976376be56e5931560d7e99088da70fb150631bd
                         </div>
                     </div>
                     <div class="col-lg-5 mt-3 responsive-menu-header">

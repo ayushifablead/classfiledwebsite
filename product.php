@@ -21,12 +21,11 @@
     <section class="mt-3 mb-5">
     <div class="container">
         <div class="row mb-3 mt-5">
-        <div class="col-lg-3">
-    <div class="sidebar">
-    <div class="sidebar__item">
+        <!-- <div class="col-lg-3">
+    <div class="sidebar"> -->
+    <!-- <div class="sidebar__item">
     <h4>Categories</h4>
-                        <!-- <div class="product_sidebar pt-20">
-                        <div class="sidebar_categories mt-30"> -->
+                       
                     
                             <div class="sidebar_categories_content">
                                 <div class="accordion" id="accordionExample">
@@ -182,83 +181,9 @@
                                 </div>
                             </div>
                         
-
                  
-
-                     
-
-                        <!-- <div class="sidebar_rating mt-30">
-                            <div class="sidebar_title">
-                                <h5 class="title">Top Deals</h5>
-                            </div>
-                            <div class="rating_content">
-                                <ul class="rating_checkbox">
-                                    <li>
-                                        <input type="checkbox" checked="" name="checkbox" id="checkbox1">
-                                        <label for="checkbox1"></label>
-                                        <span>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                        </span>
-                                        <span class="count">(25)</span>
-                                    </li>
-                                    <li>
-                                        <input type="checkbox" name="checkbox" id="checkbox2">
-                                        <label for="checkbox2"></label>
-                                        <span>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                        </span>
-                                        <span class="count">(17)</span>
-                                    </li>
-                                    <li>
-                                        <input type="checkbox" name="checkbox" id="checkbox3">
-                                        <label for="checkbox3"></label>
-                                        <span>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                        </span>
-                                        <span class="count">(12)</span>
-                                    </li>
-                                    <li>
-                                        <input type="checkbox" name="checkbox" id="checkbox4">
-                                        <label for="checkbox4"></label>
-                                        <span>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                        </span>
-                                        <span class="count">(2)</span>
-                                    </li>
-                                    <li>
-                                        <input type="checkbox" name="checkbox" id="checkbox5">
-                                        <label for="checkbox5"></label>
-                                        <span>
-                                            <i class="fas fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                            <i class="fal fa-star"></i>
-                                        </span>
-                                        <span class="count">(5)</span>
-                                    </li>
-                                </ul>
-                            </div>
                         </div> -->
-                 
-                        </div>
-                        <div class="sidebar__item">
+                        <!-- <div class="sidebar__item">
                             <h4>Price</h4>
                             <div class="price-range-wrap">
                                 <div class="price-range ui-slider ui-corner-all ui-slider-horizontal ui-widget ui-widget-content"
@@ -274,74 +199,10 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
-                        <!-- <div class="sidebar__item sidebar__item__color--option">
-                            <h4>Colors</h4>
-                            <div class="sidebar__item__color sidebar__item__color--white">
-                                <label for="white">
-                                    White
-                                    <input type="radio" id="white">
-                                </label>
-                            </div>
-                            <div class="sidebar__item__color sidebar__item__color--gray">
-                                <label for="gray">
-                                    Gray
-                                    <input type="radio" id="gray">
-                                </label>
-                            </div>
-                            <div class="sidebar__item__color sidebar__item__color--red">
-                                <label for="red">
-                                    Red
-                                    <input type="radio" id="red">
-                                </label>
-                            </div>
-                            <div class="sidebar__item__color sidebar__item__color--black">
-                                <label for="black">
-                                    Black
-                                    <input type="radio" id="black">
-                                </label>
-                            </div>
-                            <div class="sidebar__item__color sidebar__item__color--blue">
-                                <label for="blue">
-                                    Blue
-                                    <input type="radio" id="blue">
-                                </label>
-                            </div>
-                            <div class="sidebar__item__color sidebar__item__color--green">
-                                <label for="green">
-                                    Green
-                                    <input type="radio" id="green">
-                                </label>
-                            </div>
                         </div> -->
-                   <!-- <div class="sidebar__item">
-                            <h4>Popular Size</h4>
-                            <div class="sidebar__item__size">
-                                <label for="large">
-                                    Large
-                                    <input type="radio" id="large">
-                                </label>
-                            </div>
-                            <div class="sidebar__item__size">
-                                <label for="medium">
-                                    Medium
-                                    <input type="radio" id="medium">
-                                </label>
-                            </div>
-                            <div class="sidebar__item__size">
-                                <label for="small">
-                                    Small
-                                    <input type="radio" id="small">
-                                </label>
-                            </div>
-                            <div class="sidebar__item__size">
-                                <label for="tiny">
-                                    Tiny
-                                    <input type="radio" id="tiny">
-                                </label>
-                            </div>
-                        </div>  -->
-                        <div class="sidebar__item">
+                      
+                            
+                        <!-- <div class="sidebar__item">
                             <div class="sidebar_discount">
                                 <h4>Top Deals</h4>
                             </div>
@@ -363,9 +224,9 @@
                                     </li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> -->
                         
-                        <div class="sidebar__item">
+                        <!-- <div class="sidebar__item">
                             <div class="latest-product__text">
                                 <h4>Latest Products</h4>
                                 <div class="latest-product__slider owl-carousel">
@@ -430,10 +291,10 @@
 
                                 </div>
                             </div>
-                        </div>
-                    </div>
+                        </div> -->
+                    <!-- </div> -->
             
-   </div>
+   <!-- </div> -->
             <div class="col-lg-9">
             <div class="product_topbar d-md-flex align-items-center justify-content-between pb-30">
                         <div class="product_select pt-40 d-flex flex-wrap">
@@ -477,7 +338,7 @@
         <div class="tab-pane fade active show mt-3" id="grid" role="tabpanel" aria-labelledby="grid-tab">
                             <div class="product_grid">
                                 <div class="row justify-content-center">
-                                <!-- <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                            <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/4.png">
                                            
@@ -500,9 +361,9 @@
                                             </div>
                                             </div>
                                         </div>
-                                </div> -->
+                                </div> 
 
-                                    <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
+                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/car1.png">
                                            
@@ -526,7 +387,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
+                                    <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/laptop2.png">
                                            
@@ -552,7 +413,7 @@
                                     </div>
 
 
-                                        <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
+                                        <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                          <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/3.png">
                                            
@@ -580,7 +441,7 @@
 
 
 
-                                    <!-- <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
+                             <div class="col-lg-3 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
                                             <div class="product__discount__item__pic featured__item__pic set-bg" data-setbg="img/categories/4.png">
                                            
@@ -603,7 +464,7 @@
                                             </div>
                                             </div>
                                         </div>
-                                    </div> -->
+                                    </div> 
 
                                     <div class="col-lg-4 col-md-4 col-sm-6 mix vegetables fastfood">
                                         <div class="featured__item card">
