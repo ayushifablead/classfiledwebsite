@@ -254,7 +254,9 @@
                             <li><a href="./category.php">Categories</a></li>
                           <li><a href="login.php">Login</a></li>
                              <!--  <li><a href="./faqs.php">Faqs</a></li>-->
-                            <li><a href="./Profile.php"><i class="fa fa-user" aria-hidden="true"></i>
+                            <li><a href="./Profile.php"><i class="fa fa-user" aria-hidden="true"></i></a></li>
+                            <li><a href="./Profile.php"><i class="fa fa-bell" aria-hidden="true"></i>
+
                             </a></li> 
                         </ul>
                     </nav>

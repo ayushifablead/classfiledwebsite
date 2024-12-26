@@ -19,7 +19,7 @@
 <!-- Breadcrumb Section End -->
 
 <section class="mt-3 mb-5">
-    <div class="container">
+    <div class="container-fiuld p-5 spad">
         <div class="row">
         <div class="col-lg-3 col-12">
               <!--
@@ -33,20 +33,18 @@
                 <div class="card-body">
                   <ul class="nav nav-pills flex-column">
                     
-                          <a href="profile.php" class="nav-link"><i class="fa fa-user"></i> My Account</a>
+                          <a href="profile.php" class="nav-link"><i class="fa fa-user"></i> My profile</a>
                       
                       <a href="change-password.php" class="nav-link"><i class="fa fa-lock"></i> Change Password</a>
                       
-                       <a href="https://pharmaxy.org/orders" class="nav-link"><i class="fa fa-list"></i> My Orders
-                       
-                    </a>
+                     
                       
                       
                       <a href="wishlist.php" class="nav-link active"><i class="fa fa-heart"></i> My Wishlist</a>
                       
                    
                    
-                      <a href="https://pharmaxy.org/logout" class="nav-link"><i class="fa fa-sign-out"></i> Logout</a>
+                      <a href="./index.php" class="nav-link"><i class="fa fa-sign-out"></i> Logout</a>
                       
                   </ul>
                 </div>
