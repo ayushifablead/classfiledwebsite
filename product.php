@@ -19,12 +19,12 @@
     <!-- Breadcrumb Section End -->
 
 
-    <section class="mt-3 mb-5">
-    <div class="container-fulid">
+   
+
+    <section>
+        <div class="container">
+          
       
-
-
-   <div class="tab-pane fade active show mt-3" id="grid" role="tabpanel" aria-labelledby="grid-tab">
                             <div class="product_grid">
                                 <div class="row justify-content-center">
                                     
@@ -334,8 +334,8 @@
                                     </div>
 
 
-
-
+                                </div>
+                            </div>
                                     <div class="text-center mb-2">
                          <div class="product__pagination">
                             <a href="#" class="active">1</a>
@@ -348,10 +348,7 @@
 
 
                                 </div>
-                            </div>
+                      
         </div>
-    
-            </div></div>
-
     </section>
     <?php include 'footer.php'; ?>
