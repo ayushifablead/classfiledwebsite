@@ -203,7 +203,7 @@
     font-size: 0;
     content: " ";
     clear: both;
-    height: 0
+    height: 0;
 }
 .text-right{
     float:right;
@@ -250,19 +250,21 @@
     /*    background: #fff;*/
     /*    left: -400px;*/
     /*    display: none*/
+    padding: 15px 0px;
   }
     .chat-app .people-list.open {
-        left: 0
+        left: 0;
     }
     .chat-app .chat {
-        margin: 0
+        margin: 0;
     }
     .chat-app .chat .chat-header {
-        border-radius: 0.55rem 0.55rem 0 0
+        border-radius: 0.55rem 0.55rem 0 0;
+        padding: 12px 0px;
     }
     .chat-app .chat-history {
         height: 300px;
-        overflow-x: auto
+        overflow-x: auto;
     }
     .quick-filters{
     display: block;
@@ -275,22 +277,22 @@
 @media only screen and (min-width: 768px) and (max-width: 992px) {
     .chat-app .chat-list {
         height: 650px;
-        overflow-x: auto
+        overflow-x: auto;
     }
     .chat-app .chat-history {
         height: 600px;
-        overflow-x: auto
+        overflow-x: auto;
     }
 }
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
     .chat-app .chat-list {
         height: 480px;
-        overflow-x: auto
+        overflow-x: auto;
     }
     .chat-app .chat-history {
         height: calc(100vh - 350px);
-        overflow-x: auto
+        overflow-x: auto;
     }
 }
 </style>
@@ -427,14 +429,20 @@
                             </div>
                         </li>
 
-                        <li class="clearfix">
+                       <li class="clearfix">
                             <div class="message-data">
                                 <span class="message-data-time pl-5">10:12 AM, Today</span>
                             </div>
                             <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar">
                             <div class="message my-message">Are we meeting today?</div>                                    
-                        </li>                               
-                     
+                        </li>                              
+                        <li class="clearfix">
+                            <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar" class="float-left mt-5" style="">
+                            <div class="message-data text-left">
+                                <div class="message-data-time mb-3">10:10 AM, Today</div>
+                                    <div class="message my-message float-left"> Are we meeting today?</div>
+                            </div>
+                        </li>
                         <li class="clearfix">
                             <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar" class="float-right mt-5" style="">
                             <div class="message-data text-right">
