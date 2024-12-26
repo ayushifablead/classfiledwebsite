@@ -255,9 +255,86 @@
                           <li><a href="login.php">Login</a></li>
                              <!--  <li><a href="./faqs.php">Faqs</a></li>-->
                             <li><a href="./Profile.php"><i class="fa fa-user" aria-hidden="true"></i></a></li>
-                            <li><a href="./Profile.php"><i class="fa fa-bell" aria-hidden="true"></i>
+                            <li>
+                                <!-- <a href="./Profile.php"><i class="fa fa-bell" aria-hidden="true"></i>
 
-                            </a></li> 
+                            </a> -->
+                            <div class="sinlge-bar">
+                                    <a href="javascript:void(0);" class="single-icon" id="bellIcon">
+                        <i class="fa fa-bell" aria-hidden="true"></i>
+                                                <span class="total-count badge">
+                            3                        </span>
+                                            </a>
+
+                    <div class="notification-dropdown notificationDropdown" id="notificationDropdown" style="border-radius: 15px; box-shadow: rgba(0, 0, 0, 0.5) 0px 4px 8px; background-color: white;">
+                        <div class="p-2">
+                            <div class="shopping-item">
+                                <div class="d-flex dropdown-cart-header justify-content-between mb-1">
+                                    <a href="https://pharmaxy.org/allnotification" class="notification-title p-1" style="font-size: 15px;"><i class="fa fa-bell" aria-hidden="true"></i> All Notifications</a>
+                                    <span class="bg-danger notificationDropdown px-2 text-white h-100" id="closeNotificationDropdown" style="display: none;">
+                                        <i class="fa fa-times" aria-hidden="true"></i> <!-- Close Icon -->
+                                    </span>
+                                </div>
+                            </div>
+
+                                                            <ul class="shopping-list">
+                                                                            <li class="p-md-1" style="border: 1px solid; border-radius: 10px;">
+                                            <div class="row">
+                                                <div class="col-1 mt-4">
+                                                    <div>
+                                                    <i class="fa fa-bell m-2" aria-hidden="true" style=" color: #3f3d59; font-size: 20px; "></i>
+                                                    </div>
+                                                </div>
+                                                <div class="mx-4">
+                                            <a href="javascript:void(0);" class="notification-linkkk" data-order-id="MTM2">
+                                                <p style="font-size: 14px;font-weight: bold;margin-bottom: -5px;" class="mt-0">Reminder</p>
+                                                <span style="font-size: 12px;">sdsfsdfsdfsfs<br></span>
+                                                <p style="font-size: 14px;font-weight: bold; margin-bottom: -5px;" class="mt-0">Order Number</p>
+                                                <span style="font-size: 12px;">#9517-00117</span>
+                                            </a>
+                                            </div>
+                                            </div>
+                                        </li>
+                                                                            <li class="p-md-1" style="border: 1px solid; border-radius: 10px;">
+                                            <div class="row">
+                                                <div class="col-1 mt-4">
+                                                    <div>
+                                                    <i class="fa fa-bell m-2" aria-hidden="true" style=" color: #3f3d59; font-size: 20px; "></i>
+                                                    </div>
+                                                </div>
+                                                <div class="mx-4">
+                                            <a href="javascript:void(0);" class="notification-linkkk" data-order-id="MTM1">
+                                                <p style="font-size: 14px;font-weight: bold;margin-bottom: -5px;" class="mt-0">Reminder</p>
+                                                <span style="font-size: 12px;">Testing Riminder<br></span>
+                                                <p style="font-size: 14px;font-weight: bold; margin-bottom: -5px;" class="mt-0">Order Number</p>
+                                                <span style="font-size: 12px;">#9517-00116</span>
+                                            </a>
+                                            </div>
+                                            </div>
+                                        </li>
+                                                                            <li class="p-md-1" style="border: 1px solid; border-radius: 10px;">
+                                            <div class="row">
+                                                <div class="col-1 mt-4">
+                                                    <div>
+                                                    <i class="fa fa-bell m-2" aria-hidden="true" style=" color: #3f3d59; font-size: 20px; "></i>
+                                                    </div>
+                                                </div>
+                                                <div class="mx-4">
+                                            <a href="javascript:void(0);" class="notification-linkkk" data-order-id="MTM0">
+                                                <p style="font-size: 14px;font-weight: bold;margin-bottom: -5px;" class="mt-0">Reminder</p>
+                                                <span style="font-size: 12px;">Demo Reminder<br></span>
+                                                <p style="font-size: 14px;font-weight: bold; margin-bottom: -5px;" class="mt-0">Order Number</p>
+                                                <span style="font-size: 12px;">#9517-00115</span>
+                                            </a>
+                                            </div>
+                                            </div>
+                                        </li>
+                                                                    </ul>
+                                                    </div>
+                    </div>
+                            </div>
+                            
+                        </li> 
                         </ul>
                     </nav>
                 </div>
