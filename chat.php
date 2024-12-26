@@ -272,6 +272,7 @@
     .message-item{
        padding: 12px 0px;
     }
+    
 }
 
 @media only screen and (min-width: 768px) and (max-width: 992px) {
@@ -283,7 +284,18 @@
         height: 600px;
         overflow-x: auto;
     }
+    .chat-app .people-list{
+        padding: 15px 0px;
 }
+.message-item{
+    padding: 10px 0px;
+}
+.quick-filters{
+        display: block;
+    }
+    
+}
+
 
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 1) {
     .chat-app .chat-list {
@@ -346,7 +358,50 @@
         <p class="mb-0 message-text">Cod available <br><span>✔ Is it available?</span></p>
       </div>
       <span class="time">15:19</span>&nbsp;&nbsp;
-      <i class="fa fa-ellipsis-v" aria-hidden="true"></i>
+      <div style="position: relative;">
+                                                <!-- Notification Icon -->
+                                                <button id="notificationIcon" style="background: none; border: none; cursor: pointer;">
+                                                    <i class="fa fa-ellipsis-v" aria-hidden="true" style="font-size: 24px;"></i>
+                                                </button>
+
+                                                <!-- Notifications Dropdown -->
+                                                <div
+                                                    id="notificationsDropdown"
+                                                    style="
+                                                position: absolute;
+                                                top: 40px;
+                                                right: 0;
+                                                width: 300px;
+                                                background: #fff;
+                                                border: 1px solid #ddd;
+                                                border-radius: 8px;
+                                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                                                display: none; /* Hidden by default */
+                                                z-index: 1000;
+                                                ">
+
+
+                                                    <button
+                                                        id="closeButton"
+                                                        style="float: right; background: none; border: none; cursor: pointer; color: red;">
+                                                        <i class="fa fa-times" aria-hidden="true"></i>
+                                                    </button>
+
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+                                                        <strong>Delete</strong>
+
+
+                                                    </div>
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+
+                                                        <strong>Block</strong>
+                                                    </div>
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+
+                                                        <strong>Report</strong>
+                                                    </div>
+                                                </div>
+                                            </div>
     </div>
 
     <div class="message-item d-flex">
@@ -356,39 +411,56 @@
         <p class="mb-0 message-text"><span>✔ Hello!!</span></p>
       </div>
       <span class="time">15:19</span>&nbsp;&nbsp;
-      <i class="fa fa-ellipsis-v" aria-hidden="true"></i>
+      <div style="position: relative;">
+                                                <!-- Notification Icon -->
+                                                <button id="notificationIcon1" style="background: none; border: none; cursor: pointer;">
+                                                    <i class="fa fa-ellipsis-v" aria-hidden="true" style="font-size: 24px;"></i>
+                                                </button>
+
+                                                <!-- Notifications Dropdown -->
+                                                <div
+                                                    id="notificationsDropdown1"
+                                                    style="
+                                                position: absolute;
+                                                top: 40px;
+                                                right: 0;
+                                                width: 300px;
+                                                background: #fff;
+                                                border: 1px solid #ddd;
+                                                border-radius: 8px;
+                                                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+                                                display: none; /* Hidden by default */
+                                                z-index: 1000;
+                                                ">
+
+
+                                                    <button
+                                                        id="closeButton1"
+                                                        style="float: right; background: none; border: none; cursor: pointer; color: red;">
+                                                        <i class="fa fa-times" aria-hidden="true"></i>
+                                                    </button>
+
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+                                                        <strong>Delete</strong>
+
+
+                                                    </div>
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+
+                                                        <strong>Block</strong>
+                                                    </div>
+                                                    <div style="padding: 10px; border-bottom: 1px solid #ddd;">
+
+                                                        <strong>Report</strong>
+                                                    </div>
+                                                </div>
+                                            </div>
     </div>
 
 
   </div>
                 
-                <!-- <ul class="list-unstyled chat-list mt-2 mb-0">
-                   
-                    <li class="clearfix active">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar2.png" alt="avatar">
-                        <div class="about">
-                            <div class="name">Aiden Chavez</div>
-                            <div class="status"> <i class="fa fa-circle online"></i> online </div>
-                        </div>
-                    </li>
-                                                      
-                    <li class="clearfix">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar">
-                        <div class="about">
-                            <div class="name">Christian Kelly</div>
-                            <div class="status"> <i class="fa fa-circle offline"></i> left 10 hours ago </div>
-                        </div>
-                       
-                    </li>
-                   
-                    <li class="clearfix">
-                        <img src="https://bootdey.com/img/Content/avatar/avatar3.png" alt="avatar">
-                        <div class="about">
-                            <div class="name">Dean Henry</div>
-                            <div class="status"> <i class="fa fa-circle offline"></i> offline since Oct 28 </div>
-                        </div>
-                    </li>
-                </ul> -->
+            
             </div>
              
                 <div class="col-md-8">
@@ -434,15 +506,30 @@
                                 <span class="message-data-time pl-5">10:12 AM, Today</span>
                             </div>
                             <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar">
-                            <div class="message my-message">Are we meeting today?</div>                                    
+                            <div class="message my-message">meeting today?</div>                                    
                         </li>                              
-                        <li class="clearfix">
-                            <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar" class="float-left mt-5" style="">
+                        <!-- <li class="clearfix">
+                            <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar" class="float-left" style="">
                             <div class="message-data text-left">
                                 <div class="message-data-time mb-3">10:10 AM, Today</div>
                                     <div class="message my-message float-left"> Are we meeting today?</div>
                             </div>
+                        </li> -->
+                        <li class="clearfix">
+                            <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar" class="float-right mt-5" style="">
+                            <div class="message-data text-right">
+                                <div class="message-data-time mb-3">10:10 AM, Today</div>
+                                    <div class="message other-message float-right"> Hi Aiden! </div>
+                            </div>
                         </li>
+<li class="clearfix">
+                            <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar" class="float-left mt-5" style="">
+                            <div class="message-data text-left">
+                                <div class="message-data-time mb-3">10:10 AM, Today</div>
+                                    <div class="message my-message float-left"> Hi Aiden! </div>
+                            </div>
+                        </li>
+                        
                         <li class="clearfix">
                             <img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt="avatar" class="float-right mt-5" style="">
                             <div class="message-data text-right">
@@ -483,3 +570,44 @@
 <?php include 'footer.php'; ?>
 
 
+<script>
+    // Get references to the elements
+    const notificationIcon = document.getElementById('notificationIcon');
+    const notificationsDropdown = document.getElementById('notificationsDropdown');
+    const closeButton = document.getElementById('closeButton');
+
+    // Toggle dropdown visibility when the icon is clicked
+    notificationIcon.addEventListener('click', () => {
+        if (notificationsDropdown.style.display === 'none' || notificationsDropdown.style.display === '') {
+            notificationsDropdown.style.display = 'block'; // Show the dropdown
+        } else {
+            notificationsDropdown.style.display = 'none'; // Hide the dropdown
+        }
+    });
+
+    // Close the dropdown when the close button is clicked
+    closeButton.addEventListener('click', () => {
+        notificationsDropdown.style.display = 'none';
+    });
+</script>
+
+<script>
+    // Get references to the elements
+    const notificationIcon1 = document.getElementById('notificationIcon1');
+    const notificationsDropdown1 = document.getElementById('notificationsDropdown1');
+    const closeButton1 = document.getElementById('closeButton1');
+
+    // Toggle dropdown visibility when the icon is clicked
+    notificationIcon1.addEventListener('click', () => {
+        if (notificationsDropdown1.style.display === 'none' || notificationsDropdown1.style.display === '') {
+            notificationsDropdown1.style.display = 'block'; // Show the dropdown
+        } else {
+            notificationsDropdown1.style.display = 'none'; // Hide the dropdown
+        }
+    });
+
+    // Close the dropdown when the close button is clicked
+    closeButton1.addEventListener('click', () => {
+        notificationsDropdown1.style.display = 'none';
+    });
+</script>

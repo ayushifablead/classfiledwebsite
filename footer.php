@@ -35,9 +35,9 @@
                         <ul>
                             <li><a href="terms-condition.php">Terms & Conditions</a></li>
                             <li><a href="privacypolicy.php">Privacy Policy</a></li>
-                            <li><a href="category.php">Refaund Policy</a></li>
-                            <!-- <li><a href="blog.php">Blog</a></li>
-                            <li><a href="faqs.php">FAQs</a></li>
+                            <li><a href="UserSafetyGuidelines.php">User Safety Guidelines </a></li>
+                             <li><a href="cookiepolicy.php">Cookie Policy</a></li>
+                           <!-- <li><a href="faqs.php">FAQs</a></li>
                             <li><a href="contact.php">Contact</a></li> -->
                         </ul>
                      
