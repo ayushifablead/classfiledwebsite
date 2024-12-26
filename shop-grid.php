@@ -29,6 +29,7 @@
                     <h2>
                         Ads
                     </h2>
+                    <button type="submit" class="view_button_dasboard_page" onclick="window.location.href='myproduct.php'">My Product</button>
                 </div>
                 <div class="product_single_content">
                     <div class="mbp_pagination_comments ProductSingleContent-pading mt30">
