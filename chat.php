@@ -563,7 +563,7 @@
     const closeButton1 = document.getElementById('closeButton1');
 
     // Toggle dropdown visibility when the icon is clicked
-    notificationIcon.addEventListener('click', () => {
+    notificationIcon1.addEventListener('click', () => {
         if (notificationsDropdown1.style.display === 'none' || notificationsDropdown1.style.display === '') {
             notificationsDropdown1.style.display = 'block'; // Show the dropdown
         } else {

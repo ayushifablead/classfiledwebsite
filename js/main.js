@@ -339,8 +339,34 @@ const accordionContent = document.querySelectorAll(".accordion-content");
             });
           });
 
+/*-----------notification popup----------------*/
 
-
+document.addEventListener('DOMContentLoaded', () => {
+    const bellIcon = document.getElementById('bellIcon'); // The notification bell button
+    const notificationDropdown = document.getElementById('notificationDropdown'); // The dropdown element
+    const closeNotificationDropdown = document.getElementById('closeNotificationDropdown'); // Close button inside dropdown
+  
+    // Toggle dropdown visibility when bell icon is clicked
+    bellIcon.addEventListener('click', (e) => {
+      e.stopPropagation(); // Prevent click from bubbling up
+      notificationDropdown.style.display =
+        notificationDropdown.style.display === 'none' || notificationDropdown.style.display === '' ? 'block' : 'none';
+    });
+  
+    // Close dropdown when close icon is clicked
+    closeNotificationDropdown.addEventListener('click', (e) => {
+      e.stopPropagation();
+      notificationDropdown.style.display = 'none';
+    });
+  
+    // Close dropdown when clicking outside
+    window.addEventListener('click', (e) => {
+      if (!notificationDropdown.contains(e.target) && e.target !== bellIcon) {
+        notificationDropdown.style.display = 'none';
+      }
+    });
+  });
+  
 
 
 
