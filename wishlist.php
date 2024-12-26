@@ -5,11 +5,11 @@
         <div class="row">
             <div class="col-lg-12 text-center">
                 <div class="breadcrumb__text">
-                    <h2>My Product</h2>
+                    <h2>My Wishlist</h2>
                     <div class="breadcrumb__option">
                         <a href="./index.php">Home</a>
                         <!-- <a href="./shop-grid.php">Shop</a> -->
-                        <span>My Product</span>
+                        <span>My Wishlist</span>
                     </div>
                 </div>
             </div>
@@ -50,11 +50,7 @@
                                                 <span class="price">$299.00</span>
                                                 <span class="date">25 Jan, 2023</span>
                                             </div>
-                                            <div class="ads_edit_delete d-flex float-lg-right">
-                                                <span class="edit_product px-2" onclick="window.location.href='editproduct.php'"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span>
-                                           
-                                              
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -81,11 +77,7 @@
                                                 <span class="price">$399.00</span>
                                                 <span class="date">25 Jan, 2023</span>
                                             </div>
-                                            <div class="ads_edit_delete d-flex float-lg-right">
-                                                <span class="edit_product px-2" onclick="window.location.href='editproduct.php'"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span>
-                                           
-                                              
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -139,11 +131,7 @@
                                                 <span class="price">$259.00</span>
                                                 <span class="date">25 Jan, 2023</span>
                                             </div>
-                                            <div class="ads_edit_delete d-flex float-lg-right">
-                                                <span class="edit_product px-2" onclick="window.location.href='editproduct.php'"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span>
-                                           
-                                               
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -168,11 +156,7 @@
                                                 <span class="price">$299.00</span>
                                                 <span class="date">25 Jan, 2023</span>
                                             </div>
-                                            <div class="ads_edit_delete d-flex float-lg-right">
-                                                <span class="edit_product px-2" onclick="window.location.href='editproduct.php'"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span>
-                                           
-                                             
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -199,10 +183,7 @@
                                                 <span class="price">$399.00</span>
                                                 <span class="date">25 Jan, 2023</span>
                                             </div>
-                                            <div class="ads_edit_delete d-flex float-lg-right">
-                                                <span class="edit_product px-2" onclick="window.location.href='editproduct.php'"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span>
-                                           
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -255,11 +236,7 @@
                                                 <span class="price">$259.00</span>
                                                 <span class="date">25 Jan, 2023</span>
                                             </div>
-                                            <div class="ads_edit_delete d-flex float-lg-right">
-                                                <span class="edit_product px-2" onclick="window.location.href='editproduct.php'"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span>
-                                           
-                                                
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -284,11 +261,7 @@
                                                 <span class="price">$299.00</span>
                                                 <span class="date">25 Jan, 2023</span>
                                             </div>
-                                            <div class="ads_edit_delete d-flex float-lg-right">
-                                                <span class="edit_product px-2" onclick="window.location.href='editproduct.php'"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span>
-                                           
-                                               
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>
@@ -315,11 +288,7 @@
                                                 <span class="price">$399.00</span>
                                                 <span class="date">25 Jan, 2023</span>
                                             </div>
-                                            <div class="ads_edit_delete d-flex float-lg-right">
-                                                <span class="edit_product px-2" onclick="window.location.href='editproduct.php'"><i class="fa fa-pencil-square-o" aria-hidden="true"></i></span>
-                                           
-                                               
-                                            </div>
+                                            
                                         </div>
                                     </div>
                                 </div>

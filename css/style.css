@@ -1882,9 +1882,7 @@ img.cover.img-whp.w-100 {
     border-radius: 10px;
     border: 2px solid #3f3d59;
 }
-span.edit_product {
-    border-bottom: 1px solid black;
-}
+
 .view_button_banner_image_page:hover
 {
 	border: 2px solid white;
@@ -1900,6 +1898,14 @@ span.edit_product {
 	font-weight: 700;
 	width: 170px;
 	display: inline-block;
+}
+
+.edit_product.px-2 i.fa.fa-times-circle {
+    color: red;
+    position: absolute;
+    right: -10px;
+    top: -11px;
+    font-size: 22px;
 }
 
 .product__details__text ul li span samp {
@@ -2933,8 +2939,8 @@ footer.footer.spad p{
 -----------------------*/
 
 .contact {
-	padding-top: 80px;
-	padding-bottom: 50px;
+	padding-top: 30px;
+	padding-bottom: 30px;
 }
 
 .contact__widget {
@@ -3034,7 +3040,7 @@ footer.footer.spad p{
 -----------------------*/
 
 .contact__form__title {
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 	text-align: center;
 }
 
