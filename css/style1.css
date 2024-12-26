@@ -336,9 +336,6 @@ i, span, a {
     }
 }
 @media only screen and (max-width: 600px) {
-    .header__top1 .hero__categories__all, .d-sm-none {
-        display: none!important;
-    }
     
     .humberger__menu__widget .hero__categories__all i, .humberger__menu__widget .hero__categories__all span{
         color:#000;
